@@ -1,6 +1,6 @@
 # WORKING TITLE
 
-intro
+This is an updated intro.
 
 ## SECTION 1
 
