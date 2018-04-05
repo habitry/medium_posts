@@ -1,8 +1,9 @@
 # WORKING TITLE
 
 # Opener
-- Introduce a concept
-- Relate the concept to the reader's experience
+
+- Introduce a concept and relate it to the reader's experience
+- Provide an example that reminds them how they apply the concept in practice
 - Introduce a problem the reader is facing
 
 ## Problem + Unteach
