@@ -1,28 +1,25 @@
 # WORKING TITLE
 
-# Unteach
+# Opener
 - Introduce a concept
 - Relate the concept to the reader's experience
-- Introduce problem
+- Introduce a problem the reader is facing
 
-## A problem
+## Problem + Unteach
 
 - What is the problem? Relate it to the reader's experience
 - State an assumption the reader is making that is getting them to overlook the problem
 - State why their assumption is a delusion
-- Briefly state why the problem is important
+- State why the problem is important for them
 
 ## A solution
 
 - Explain a "solution"
-- Introduce 3-5 guiding questions
-- Introduce 1-3 guidelines for when and how to apply the question, with an explanation of what they'll learn.
-- Explain how you've used the guidelines in the past
-- takeaways
-
+- 3-5 questions to start thinking about a solution
+- 1-3 guidelines for *when* and *how* to apply questions, with an explanation of *what* they'll learn.
+- Explain how you've used the guidelines in the past, and *why* they work.
 ## Conclusion
 
-- Remind them why the problem is important
-- Remind them with an example of why the problem is important
-- Remind them of their mistaken assumption
-- Remind them of the solution
+- Reminder of why the problem is important for the reader, with an example
+- Reminder of their mistaken assumption
+- Reminder of a solution
