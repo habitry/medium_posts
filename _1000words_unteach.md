@@ -19,6 +19,7 @@
 - 3-5 questions to start thinking about a solution
 - 1-3 guidelines for *when* and *how* to apply questions, with an explanation of *what* they'll learn.
 - Explain how you've used the guidelines in the past, and *why* they work.
+
 ## Conclusion
 
 - Reminder of why the problem is important for the reader, with an example
