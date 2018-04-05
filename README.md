@@ -1,6 +1,6 @@
 # Medium Posts
 
-Habitry writes 1,000-15,000 word articles for our medium publication [Practical Motication Science](https://medium.com/practical-motivation-science).
+Habitry writes 1,000-15,000 word articles for our medium publication [Practical Motivation Science](https://medium.com/practical-motivation-science).
 
 ## Getting Started
 
