@@ -35,7 +35,7 @@ Push = "information and tasks" | “here’s something you should know,” or �
   -
 
 - Data Pokers
-  - Conversa
+  - 
   - "These apps need"
 
 - Trackers
