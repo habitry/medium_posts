@@ -4,7 +4,7 @@ Introduce a question
 
 ## Needs first, truth second.
 
-- I like you;
+- I like you
 - I think you’re capable of understanding more
 - I can tell that you care about this…
 - ... now let me share with you how I see the world.
