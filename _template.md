@@ -1,24 +1,24 @@
-# WORKING TITLE
+# WORKING TITLE (state the question you're answering)
 
-I'm the intro!
+Introduce a question
 
-## SECTION 1
+## Needs first, truth second.
 
-- what this section is about
-- why it matters
-- research or examples
-- takeaways
+- I like you;
+- I think you’re capable of understanding more
+- I can tell that you care about this…
+- ... now let me share with you how I see the world.
 
-## SECTION 2
+## Articulate their assumption
 
-- what this section is about
-- why it matters
-- research or examples
-- takeaways
+-  Bring to the surface their assumption
+-  Explain how they are overlooking something because of their assumption
 
-## SECTION 3
+## Provide guidelines (while supporting their BPN)
 
-- what this section is about
-- why it matters
-- research or examples
-- takeaways
+- Introduce a guideline
+- Show how you use the guideline
+- Introduce another guideline
+- Show how you use the guideline
+- Introduce 3-5 guiding questions
+- Pithy conclusion about why what they learned matters
