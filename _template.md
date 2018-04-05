@@ -1,25 +1,24 @@
 # WORKING TITLE
 
-# Opener
-- Introduce a concept
-- Relate the concept to the reader's experience
-- Introduce a problem the reader is facing
+I'm the intro!
 
-## Problem + Unteach
+## SECTION 1
 
-- What is the problem? Relate it to the reader's experience
-- State an assumption the reader is making that is getting them to overlook the problem
-- State why their assumption is a delusion
-- State why the problem is important for them
+- what this section is about
+- why it matters
+- research or examples
+- takeaways
 
-## A solution
+## SECTION 2
 
-- Explain a "solution"
-- 3-5 questions to start thinking about a solution
-- 1-3 guidelines for *when* and *how* to apply questions, with an explanation of *what* they'll learn.
-- Explain how you've used the guidelines in the past, and *why* they work.
-## Conclusion
+- what this section is about
+- why it matters
+- research or examples
+- takeaways
 
-- Reminder of why the problem is important for the reader, with an example
-- Reminder of their mistaken assumption
-- Reminder of a solution
+## SECTION 3
+
+- what this section is about
+- why it matters
+- research or examples
+- takeaways
