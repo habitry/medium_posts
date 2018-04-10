@@ -19,7 +19,7 @@
 ### How to apply SDT across different phases
 - 1-3 guidelines about capturing *attention*.
 - 1-3 guidelines about supporting *onboarding*.
-- 1-3 guidelines about supporting *maintenance*
+- 1-3 guidelines about supporting *maintenance*.
 
 - Explain or *when* and *how* to apply the guidelines, with an explanation of *what* they can pay attention to figure out if its working
 
