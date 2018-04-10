@@ -1,6 +1,6 @@
 # How to Increase Adoption of Password Managers: Stop Scaring and Start Motivating
 
-# Opener
+## Opener
 
 - Stats showing how information security is important
 - Stats showing this is a behavioral problem
@@ -12,11 +12,11 @@
 - Give an obvious example of why the default approach is wrong.
 - Restate why default approach is a big problem.
 
-## A solution
+## Strategy
 
-- The SDT approach in a nutshell.
+- The SDT strategy in a nutshell.
 
-### How to apply SDT across different phases
+## Tactics: How to apply SDT across different phases
 - 1-3 guidelines about capturing *attention*.
 - 1-3 guidelines about supporting *onboarding*.
 - 1-3 guidelines about supporting *maintenance*.
