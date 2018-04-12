@@ -1,38 +1,28 @@
 # How to Increase Adoption of Password Managers: Stop Scaring and Start Motivating
 
-## Opener
+# [Opener]
 
-- John Podesta got phished: https://motherboard.vice.com/en_us/article/mg7xjb/how-hackers-broke-into-john-podesta-and-colin-powells-gmail-accounts
+>On March 19 of this year, Hillary Clinton's campaign chairman John Podesta received an alarming email that appeared to come from Google.
 
-But it's not just government employees. Everyone is vulnerable. At the center of security are people, with all their flaws.
+>The email, however, didn't come from the internet giant. It was actually an attempt to hack into his personal account. In fact, the message came from a group of hackers that security researchers, as well as the US government, believe are spies working for the Russian government. At the time, however, Podesta didn't know any of this, and he clicked on the malicious link contained in the email, giving hackers access to his account.
 
-- Stats showing how information security is important
+>Source: [Vice](https://motherboard.vice.com/en_us/article/mg7xjb/how-hackers-broke-into-john-podesta-and-colin-powells-gmail-accounts)
 
-The cost reached an all time high in 2015
+There is a zeitgeist shift in the air. Massive phishing scams, data breaches, and identify theft are in the news. People are understandably worried. It's not just government employees who are vulnerable, but all of us. In 2015, there were 2 billion Internet users, and cybercrime cost the world $3 *trillion*. By 2021, there will be 6 billion Internet users, and the cost of cybercrime is [expected to rise to $6 *trillion*](https://cybersecurityventures.com/hackerpocalypse-cybercrime-report-2016/) per year. Everything on Planet Earth — people, places, and things — are rapidly connected to the Internet. Much faster than our ability to secure them. For example, at this moment, there are 1.4 billion stolen passwords freely [available online](https://www.csoonline.com/article/3266607/password-security/1-4b-stolen-passwords-are-free-for-the-taking-what-we-know-now.html).
 
-Ponemon Institute. 2015 Cost of data breach study: United States. Ponemon Institute Research Report (2015), 1–22.
+#### [Showing this is a behavioral problem]
 
-- Stats showing this is a behavioral problem
+If the Internet is like an "information superhighway", then most of us are driving around in a car without airbags or seat belts. People often engage in poor security behaviors, like using the same weak password across multiple sites and services. The adoption rate of password managers remains very low (Alkaldi & Renaud, 2016).
 
-While having security countermeasures in place is a step in the right direction, home users often fail to adopt secure behaviors on a regular basis (i.e., sharing passwords, using weak passwords, clicking on unfamiliar links, and downloading e-mail attachments without proper scrutiny)
+Any attempts to secure ourselves will necessarily center on designing for [human motivation](http://habitry.link/motivating-humans) and [decision-making](http://behavioralscientist.org/the-road-to-cybersecurity-is-paved-with-extraordinarily-basic-things/). Even information security researchers agree. They've started a field called... wait for it... Behavioral Information Security, in response to the observation that way too much of the focus has been on coming up with technical fixes instead of supporting behavior change (Crossler, Johnston, Lowry, Hu, Warkentin, & Baskerville, 2013).
 
-End users are the root cause of 25% of data breaches
+#### [The default approach is failing]
 
-The adoption rate of password managers remains low (Alkaldi & Renaud, 2016)
+Given the immense scale of the problem, it's doubtful that we'll ever be able to design ever more elaborate systems to secure ourselves. When facing a complex problem, we tend to look for complex solutions. Yet in an uncertain world, that's a mistake. "Overly complicated systems difficult to understand, easy to exploit, "difficult to understand, easy to exploit, and possible dangerous" (Gigerenzer, 2015).
 
-InfoSec behaviors are just like motivating health behaviors. A recent article on Behavioral Scientist made this point. In fact, health researchers have been examining the impact of fear messages for years. We can learn from them.
+What's needed is motivating people to use simple rules of thumb and behaviors that they can do easily. 
 
-Motivation arouses, directs, and sustains voluntary behaviors. It's been heavily studied in psychology and has been shown to have significant effects on feelings, thoughts, and behaviors (Vallerand et al)
-
-Behavioral Information Security was started in response to the observation that even though a major weakness in securing information are people, much of the focus has been on coming up with technical fixes (Crossler, Johnston, Lowry, Hu, Warkentin, & Baskerville, 2013)
-
-- The default approach is failing
-
-The size of the problem increased by 55%
-
-Villatte, N. 2015 Data Breach Investigations Report. Basking Ridge, NJ: Verizon Enterprise Solutions, 2015.
-
-## Problem + Unteach
+# [Problem + Unteach]
 
 - Telling doesn't work. People know they should use secure passwords, 2fa, etc.
 
@@ -52,7 +42,7 @@ Fear only works if people feel competent and know what to do. (Kok et al; Fishba
 
 - Restate why default approach is a big problem.
 
-## Strategy
+#### [Strategy]
 
 - The SDT strategy in a nutshell.
 
@@ -70,6 +60,8 @@ Third, fostering autonomy, competence, and relatednesss
 
 ## Tactics: How to apply SDT across different phases
 - 1-3 guidelines about supporting *attention*. We're going to assuming you already have users and that you've got their attention. What can you do to support their intention to actually download your Password Manager?
+
+Use Stephen Wendel's action funnel
 
 It all starts with an intention to download the app. (Menard, Bott, Crossler study)
 
@@ -97,8 +89,9 @@ Use Marques et al MBCT study
 
 Alkaldi, N. and Renaud, K. (2016) Why Do People Adopt, or Reject, Smartphone Password Managers? In: EuroUSEC 2016: The 1st European Workshop on Usable Security, Darmstadt, Germany, 18 July 2016, ISBN 1891562452
 
-
 Crossler, R. E., Johnston, A. C., Lowry, P. B., Hu, Q., Warkentin, M., & Baskerville, R. (2013). Future directions for behavioral information security research. Computers & Security, 32, 90-101.
+
+Gigerenzer, Gerd. Risk savvy: How to make good decisions. Penguin, 2015.
 
 Possibly useful in coming up with tactics:
 
