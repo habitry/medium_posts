@@ -8,43 +8,35 @@
 
 >Source: [Vice](https://motherboard.vice.com/en_us/article/mg7xjb/how-hackers-broke-into-john-podesta-and-colin-powells-gmail-accounts)
 
-There is a zeitgeist shift in the air. Massive phishing scams, data breaches, and identify theft are in the news. People are understandably worried. It's not just government employees who are vulnerable, but all of us. In 2015, there were 2 billion Internet users, and cybercrime cost the world $3 *trillion*. By 2021, there will be 6 billion Internet users, and the cost of cybercrime is [expected to rise to $6 *trillion*](https://cybersecurityventures.com/hackerpocalypse-cybercrime-report-2016/) per year. Everything on Planet Earth — people, places, and things — are rapidly connected to the Internet. Much faster than our ability to secure them. For example, at this moment, there are 1.4 billion stolen passwords freely [available online](https://www.csoonline.com/article/3266607/password-security/1-4b-stolen-passwords-are-free-for-the-taking-what-we-know-now.html).
+There is a zeitgeist shift in the air. Massive phishing scams, data breaches, and identify theft are in the news. People are understandably worried. It's not just government employees who are vulnerable, but all of us. For example, [64% of Americans](http://www.pewinternet.org/2017/01/26/americans-and-cybersecurity/) have personally experienced a major data breach. Yet this is a global problem. In 2015, there were 2 billion Internet users, and cybercrime cost the world $3 *trillion*. By 2021, there will be 6 billion Internet users, and the cost of cybercrime is [expected to rise to $6 *trillion*](https://cybersecurityventures.com/hackerpocalypse-cybercrime-report-2016/) per year. Everything on Planet Earth — people, places, and things — are rapidly connected to the Internet. Much faster than our ability to secure them. For example, at this moment, there are 1.4 billion stolen passwords freely [available online](https://www.csoonline.com/article/3266607/password-security/1-4b-stolen-passwords-are-free-for-the-taking-what-we-know-now.html).
 
 #### [Showing this is a behavioral problem]
 
-If the Internet is like an "information superhighway", then most of us are driving around in a car without airbags or seat belts. People often engage in poor security behaviors, like using the same weak password across multiple sites and services. The adoption rate of password managers remains very low (Alkaldi & Renaud, 2016).
-
-Any attempts to secure ourselves will necessarily center on designing for [human motivation](http://habitry.link/motivating-humans) and [decision-making](http://behavioralscientist.org/the-road-to-cybersecurity-is-paved-with-extraordinarily-basic-things/). Even information security researchers agree. They've started a field called... wait for it... Behavioral Information Security, in response to the observation that way too much of the focus has been on coming up with technical fixes instead of supporting behavior change (Crossler, Johnston, Lowry, Hu, Warkentin, & Baskerville, 2013).
+If the Internet is like an "information superhighway", then most of us are driving around in a car without airbags or seat belts. People often engage in poor security behaviors. In America, 41% of online adults shared their passwords, 39% say they use the same passwords for many of their online accounts,  25% admit they use simpler passwords because they are easier to remember, and only 12% say they use password managers (Pew Research Center, 2017).
 
 #### [The default approach is failing]
 
-Given the immense scale of the problem, it's doubtful that we'll ever be able to design ever more elaborate systems to secure ourselves. When facing a complex problem, we tend to look for complex solutions. Yet in an uncertain world, that's a mistake. "Overly complicated systems difficult to understand, easy to exploit, "difficult to understand, easy to exploit, and possible dangerous" (Gigerenzer, 2015).
-
-What's needed is motivating people to use simple rules of thumb and behaviors that they can do easily.
+Any attempts to secure ourselves will necessarily center on designing for [human motivation](http://habitry.link/motivating-humans) and [decision-making](http://behavioralscientist.org/the-road-to-cybersecurity-is-paved-with-extraordinarily-basic-things/). Even information security researchers agree. They've started a field called Behavioral Information Security, in response to the observation that way too much of the focus has been on coming up with technical fixes instead of supporting behavior change (Crossler, Johnston, Lowry, Hu, Warkentin, & Baskerville, 2013).
 
 # [Problem + Unteach]
 
-- Telling doesn't work. People know they should use secure passwords, 2fa, etc.
+- Scaring doesn't work.
 
-Workman, M. A test of interventions for security threats from social engineering. Information Management and Computer Security, 16, 5 (2008), 463–483.
-
-Motivating information security behaviors is similar to motivating health behaviors. Yet, just like naive health coaches who are new,
-
-
-
- health researchers have been examining the impact of fear messages for years. We can learn from them.
-
-Motivation arouses, directs, and sustains voluntary behaviors. It's been heavily studied in psychology and has been shown to have significant effects on feelings, thoughts, and behaviors (Vallerand et al)
-
-- Scaring doesn't work. Explain PMT from health research.
-
-PMT is a theory that says motivation to protect oneself comes from a perceived threat and a desire to avoid a potential negative outcome.
+While its true that most people [don't know](http://www.pewinternet.org/2017/03/22/what-the-public-knows-about-cybersecurity/) how to secure themselves online, scaring them into adopting more secure behaviors won't work.
 
 Fear only works if people feel competent and know what to do. (Kok et al; Fishbach et al on negative feedback)
 
 - Nudging doesn't work.
 
+Given the immense scale of the problem, why can't we just sidestep the human problem with a technology solution? It's doubtful that we'll ever be able to secure ourselves by just relying on technology. When facing a complex problem, we tend to look for complex solutions. Yet in an uncertain world, that's a mistake. "Overly complicated systems difficult to understand, easy to exploit, "difficult to understand, easy to exploit, and possible dangerous" (Gigerenzer, 2015).
+
+We need to stop scaring people into using elaborate technical systems. What's needed is motivating people to use simple rules of thumb and behaviors that they can do easily.
+
 - Self-Determination does.
+
+ And the key to motivating people to stop thinking of motivation as something you "add" to people, like a software update. Instead, you have to think of yourself as [a great host](http://habitry.link/motivating-humans).
+
+ Motivation arouses, directs, and sustains voluntary behaviors. It's been heavily studied in psychology and has been shown to have significant effects on feelings, thoughts, and behaviors (Vallerand et al)
 
 - Give an obvious example of why the default approach is wrong.
 
@@ -104,3 +96,6 @@ Gigerenzer, Gerd. Risk savvy: How to make good decisions. Penguin, 2015.
 Possibly useful in coming up with tactics:
 
 Wright, R. T., Jensen, M. L., Thatcher, J. B., Dinger, M., & Marett, K. (2014). Research note—influence techniques in phishing attacks: an examination of vulnerability and resistance. Information systems research, 25(2), 385-400.
+
+http://www.pewinternet.org/2017/01/26/1-americans-experiences-with-data-security/
+http://www.pewinternet.org/2017/03/22/what-the-public-knows-about-cybersecurity/
