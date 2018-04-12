@@ -20,13 +20,21 @@ Any attempts to secure ourselves will necessarily center on designing for [human
 
 Given the immense scale of the problem, it's doubtful that we'll ever be able to design ever more elaborate systems to secure ourselves. When facing a complex problem, we tend to look for complex solutions. Yet in an uncertain world, that's a mistake. "Overly complicated systems difficult to understand, easy to exploit, "difficult to understand, easy to exploit, and possible dangerous" (Gigerenzer, 2015).
 
-What's needed is motivating people to use simple rules of thumb and behaviors that they can do easily. 
+What's needed is motivating people to use simple rules of thumb and behaviors that they can do easily.
 
 # [Problem + Unteach]
 
 - Telling doesn't work. People know they should use secure passwords, 2fa, etc.
 
 Workman, M. A test of interventions for security threats from social engineering. Information Management and Computer Security, 16, 5 (2008), 463–483.
+
+Motivating information security behaviors is similar to motivating health behaviors. Yet, just like naive health coaches who are new,
+
+
+
+ health researchers have been examining the impact of fear messages for years. We can learn from them.
+
+Motivation arouses, directs, and sustains voluntary behaviors. It's been heavily studied in psychology and has been shown to have significant effects on feelings, thoughts, and behaviors (Vallerand et al)
 
 - Scaring doesn't work. Explain PMT from health research.
 
