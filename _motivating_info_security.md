@@ -45,7 +45,7 @@ Let's get into some tactics for how you can support autonomy, competence, and re
 ## Designing a Need Supportive User Journey
 
 
-#### Phase 1: Build trust
+## Phase 1: Build trust
 
 1-3 guidelines about supporting *attention*.
 
@@ -63,7 +63,7 @@ Your passwords are the keys to your digital life, and your online accounts are a
 - Explain or *when* and *how* to apply the guidelines, with an explanation of *what* they can pay attention to figure out if its working
 - Explain how you've used the guidelines in the past, and *why* they work.
 
-##Phase 2: Support onboarding: 1-3 guidelines about supporting *onboarding*.
+## Phase 2: Support onboarding: 1-3 guidelines about supporting *onboarding*.
 
 "Fix the problem for me with as little effort on my end as possible.""
 
@@ -82,16 +82,16 @@ What if I lose my master password?
 
 - Show me a structure of how you're going to change my life.
 
-- Show me a short video of someone like me doing what I'm doing. Consequence free learning.
-- Tool tips.
+- Observe an someone like me using the app. A video. Consequence free learning.
+- Tool tips. (imitating, social guidance, feedback)
 - Do it yourself.
 
 - Provide structured guidance
-- Tolerate or value making mistakes
+- A lot of positive feedback (example: value making mistakes)
 
 - Compare and Contrast the LastPass vs OnePassword onboarding.
 
-## Phase 3: Support habit formation.
+## Phase 3: Support habits and commitment
 
 Do I want to keep using this?
 
