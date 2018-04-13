@@ -42,22 +42,18 @@ Let's get into some tactics for how you can support autonomy, competence, and re
 
 [image of phase 1 > phase 2> phase 3 as a cycle]
 
-## Phase 1: Gain their trust.
-
-We're going to assuming you already have users and that you've got their attention. What can you do to support their desire to actually download your Password Manager? Here's an example we stole directly from Mendard, Bott, & Crossley (2017):
-
-Your passwords are the keys to your digital life, and your online accounts are a proverbial gold mine for someone looking to steal your identity. Hackers often accomplish identity theft by figuring out online passwords **[This is a relatedness satisfying statement because it connects to something the user cares about: protecting their digital life and identity]**. Regardless of how confident you are in your computer skills, you can learn how to create strong passwords and manage them using a password manager **[This is a competence satisfying statement because it tells the user they can succeed no matter their current skills]**. A password manager is software that aids in keeping track of multiple passwords. We recommend using Dashlane, 1Password, KeePass, or LastPass. Each of these is an adequate solution, so feel free to choose the software you like the best as your password manager **[This is an autonomy satisfying statement because it provides choices and tells the user how to pick].
+#### Designing a Need Supportive User Journey
 
 - 1-3 guidelines about supporting *attention*.
-
-Use Stephen Wendel's action funnel
-
-It all starts with an intention to download the app. (Menard, Bott, Crossler study)
 
 Use Marques et al MBCT study
   - MBCT 1, MBCT 2, etc
 
-## Phase 2: Support onboarding.
+We're going to assuming you already have users and that you've got their attention. What can you do to support their desire to actually download your Password Manager? Here's an example we stole directly from Mendard, Bott, & Crossley (2017):
+
+Your passwords are the keys to your digital life, and your online accounts are a proverbial gold mine for someone looking to steal your identity. Hackers often accomplish identity theft by figuring out online passwords **[This is a relatedness satisfying statement because it connects to something the user cares about: protecting their digital life and identity]**. Regardless of how confident you are in your computer skills, you can learn how to create strong passwords and manage them using a password manager **[This is a competence satisfying statement because it tells the user they can succeed no matter their current skills]**. A password manager is software that aids in keeping track of multiple passwords. We recommend using Dashlane, 1Password, KeePass, or LastPass. Each of these is an adequate solution, so feel free to choose the software you like the best as your password manager **[This is an autonomy satisfying statement because it provides choices and tells the user how to pick]**.
+
+Phase 2: Support onboarding.
 
 - 1-3 guidelines about supporting *onboarding*. What do you need to learn in order to tailor the experience for them? How can you support them in taking first steps?
 -
@@ -93,9 +89,6 @@ Kok, G., Peters, G. J. Y., Kessels, L. T., Ten Hoor, G. A., & Ruiter, R. A. (201
 
 Menard, P., Bott, G. J., & Crossler, R. E. (2017). User motivations in protecting information security: Protection motivation theory versus self-determination theory. *Journal of Management Information Systems, 34*, 1203-1230.
 
-Possibly useful in coming up with tactics:
-
-Wright, R. T., Jensen, M. L., Thatcher, J. B., Dinger, M., & Marett, K. (2014). Research note—influence techniques in phishing attacks: an examination of vulnerability and resistance. *Information systems research, 25*, 385-400.
-
 http://www.pewinternet.org/2017/01/26/1-americans-experiences-with-data-security/
+
 http://www.pewinternet.org/2017/03/22/what-the-public-knows-about-cybersecurity/
