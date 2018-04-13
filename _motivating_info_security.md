@@ -1,4 +1,4 @@
-# How to Increase Adoption of Password Managers: Stop Scaring and Start Motivating
+# How to Increase Adoption and Use of Password Managers: Stop Scaring and Start Motivating
 
 # [Opener]
 
@@ -42,38 +42,71 @@ Let's get into some tactics for how you can support autonomy, competence, and re
 
 [image of phase 1 > phase 2> phase 3 as a cycle]
 
-#### Designing a Need Supportive User Journey
+## Designing a Need Supportive User Journey
 
-- 1-3 guidelines about supporting *attention*.
 
-Use Marques et al MBCT study
-  - MBCT 1, MBCT 2, etc
+#### Phase 1: Build trust
 
-We're going to assuming you already have users and that you've got their attention. What can you do to support their desire to actually download your Password Manager? Here's an example we stole directly from Mendard, Bott, & Crossley (2017):
+1-3 guidelines about supporting *attention*.
+
+Do I trust your advice based on a millisecond glance?
+
+They show up on your website after finding out a password was compromised, or because their InfoSec expert friends sent them.
+
+Your job right now is to build trust by showing them you understand them.
+
+We're going to assuming you already have users and that you've got their attention. What can you do to support their desire to actually download your Password Manager? Here's an example we stole directly from Menard, Bott, & Crossley (2017):
 
 Your passwords are the keys to your digital life, and your online accounts are a proverbial gold mine for someone looking to steal your identity. Hackers often accomplish identity theft by figuring out online passwords **[This is a relatedness satisfying statement because it connects to something the user cares about: protecting their digital life and identity]**. Regardless of how confident you are in your computer skills, you can learn how to create strong passwords and manage them using a password manager **[This is a competence satisfying statement because it tells the user they can succeed no matter their current skills]**. A password manager is software that aids in keeping track of multiple passwords. We recommend using Dashlane, 1Password, KeePass, or LastPass. Each of these is an adequate solution, so feel free to choose the software you like the best as your password manager **[This is an autonomy satisfying statement because it provides choices and tells the user how to pick]**.
 
-Phase 2: Support onboarding.
+- Identify the MBCTs used.
+- Explain or *when* and *how* to apply the guidelines, with an explanation of *what* they can pay attention to figure out if its working
+- Explain how you've used the guidelines in the past, and *why* they work.
 
-- 1-3 guidelines about supporting *onboarding*. What do you need to learn in order to tailor the experience for them? How can you support them in taking first steps?
--
-  - MBCT 1, MBCT 2, etc
+##Phase 2: Support onboarding: 1-3 guidelines about supporting *onboarding*.
+
+"Fix the problem for me with as little effort on my end as possible.""
+
+Can someone like me actually do this?
+
+Onboarding is when people will have the highest motivation to learn anything ever (within limits). It's like New Years Day. Use it wisely.
+
+Don't make them feel stupid, manipulated, or misunderstood.
+
+Concerns:
+What if I get locked out of the password manager?
+What if someone gets access to my password manager?
+What if I lose my master password?
+
+- What do you need to learn in order to tailor the experience for them? How can you support them in taking first steps?
+
+- Show me a structure of how you're going to change my life.
+
+- Show me a short video of someone like me doing what I'm doing. Consequence free learning.
+- Tool tips.
+- Do it yourself.
+
+- Provide structured guidance
+- Tolerate or value making mistakes
+
+- Compare and Contrast the LastPass vs OnePassword onboarding.
 
 ## Phase 3: Support habit formation.
 
+Do I want to keep using this?
+
 - 1-3 guidelines about supporting *maintenance*. Supporting motivation and habit formation.
-  - MBCT 1, MBCT 2, etc
 
-- Explain or *when* and *how* to apply the guidelines, with an explanation of *what* they can pay attention to figure out if its working
-
-- Explain how you've used the guidelines in the past, and *why* they work.
+- keeping the love affair going
+- teaching them your mental model about how you think (using it as a spreadsheet vs using it as your personal password assistant)
+- getting them to bring other people into the [community](httpL//habitry.link/community)
+- Making it easy to use the password manager (offering to save passwords as you use them)
 
 ## Conclusion
 
 - Reminder of why the problem is important for the reader, with an example
 - Reminder of their mistaken assumption
 - Reminder of a solution
-
 
 ## References
 
