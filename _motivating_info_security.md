@@ -137,7 +137,7 @@ The first step to breaking a habit is to change your environment so that you don
 
 Most modern password managers do this wonderfully well by co-opting existing cues in service of new habits. For example, they'll ask you if you want to add a password to your vault after you enter it in the course of your regular web browsing. Next, they'll start suggesting the new habit: use the password manager to enter your password on this site from now on. Finally, they make it as easy as possible by offering one click logins to all online accounts.
 
-### Tactic: Encourage them to bring other people into your community
+### Tactic: Help them build their community
 
 By now you've built their trust, supported their onboarding, and helped them build new more secure habits. Your users are feeling successful, and some of them might want to spread the love. This could be as simple as showing them how they can help their friends and family live more secure lives, too. And it could be as involved as creating a [community of behavior change](http://habitry.link/community) with them.
 
