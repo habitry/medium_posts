@@ -4,31 +4,29 @@
 
 >On March 19 of this year, Hillary Clinton's campaign chairman John Podesta received an alarming email that appeared to come from Google.
 
->The email, however, didn't come from the internet giant. It was actually an attempt to hack into his personal account. In fact, the message came from a group of hackers that security researchers, as well as the US government, believe are spies working for the Russian government. At the time, however, Podesta didn't know any of this, and he clicked on the malicious link contained in the email, giving hackers access to his account.
+>The email, however, wasn't from Google. The message came from a group of hackers that security researchers—as well as the US government—believe were spies working for the Russian government. At the time, however, Podesta didn't know any of this, and he clicked on the malicious link contained in the email, giving hackers access to his account.
 
 >Source: [Vice](https://motherboard.vice.com/en_us/article/mg7xjb/how-hackers-broke-into-john-podesta-and-colin-powells-gmail-accounts)
 
-There's a zeitgeist shift in the air. Massive phishing scams, data breaches, and identify theft are in the news. People are understandably worried. It's not just government employees who are vulnerable, but all of us. For example, 64% of Americans have personally experienced a major data breach (Olmstead & Smith, 2017a). Yet this is a global problem. In 2015, there were 2 billion Internet users, and cybercrime cost the world $3 *trillion*. By 2021, there will be 6 billion Internet users, and the cost of cybercrime is expected to rise to $6 *trillion* per year (Cybersecurity Ventures, 2017). Everything on Planet Earth — people, places, and things — is rapidly connected to the Internet. Much faster than our ability to secure them. For example, at this moment, there are 1.4 billion stolen passwords freely [available online](https://www.csoonline.com/article/3266607/password-security/1-4b-stolen-passwords-are-free-for-the-taking-what-we-know-now.html).
+Massive phishing scams, data breaches, and identify theft are in the news and people are understandably worried. It's not just government employees who are vulnerable, but all of us. 64% of Americans have personally experienced a major data breach (Olmstead & Smith, 2017a). Yet this is a global problem. In 2015, there were 2 billion Internet users, and cybercrime cost the world 3 *trillion* dollars. By 2021, there will be 6 billion Internet users, and the cost of cybercrime is expected to rise to 6 *trillion* dollars per year (Cybersecurity Ventures, 2017).
+
+And information security researchers agree: any attempts to secure ourselves will necessarily center on designing for [human motivation](http://habitry.link/motivating-humans) and [decision-making](http://behavioralscientist.org/the-road-to-cybersecurity-is-paved-with-extraordinarily-basic-things/). Security experts have even started a field called "Behavioral Information Security," in response to the observation that  too many proposed solutions rely on technical fixes instead of supporting behavior change (Crossler, Johnston, Lowry, Hu, Warkentin, & Baskerville, 2013). In short, people, places, and things are becoming connected to the Internet much faster than our ability to secure them. And these security problems plaguing the internet are not a Computer Science problem. They're a Behavioral Science problem.
 
 #### [Showing this is a behavioral problem]
 
-If the Internet is like an "information superhighway", then most of us are driving around in a car without airbags or seat belts. People often engage in poor security behaviors. In America, 41% of online adults shared their passwords, 39% say they use the same passwords for many of their online accounts,  25% admit they use simpler passwords because they are easier to remember, and **only 12%** say they use a password manager (Olmstead & Smith, 2017b).
+Take password managers for example. Password managers are an elegant, technical, **free** solution to one of the most prevalent problems in security: shitty passwords. In America, 41% of online adults shared their passwords, 39% say they use the same passwords for many of their online accounts, 25% admit they use simpler passwords because they are easier to remember (Olmstead & Smith, 2017b). Password managers solve all these problems, but people still have to 1) learn what they are 2) get them 3) use them. These are behavioral barriers to applying a technical solution. And **only 12%** of Americans use a password manager (Olmstead & Smith, 2017b).
 
-#### [The default approach is failing]
-
-Any attempts to secure ourselves will necessarily center on designing for [human motivation](http://habitry.link/motivating-humans) and [decision-making](http://behavioralscientist.org/the-road-to-cybersecurity-is-paved-with-extraordinarily-basic-things/). Even information security researchers agree. They've started a field called Behavioral Information Security, in response to the observation that way too much of the focus has been on coming up with technical fixes instead of supporting behavior change (Crossler, Johnston, Lowry, Hu, Warkentin, & Baskerville, 2013).
+_For the 88% of reading this who don't use one, a password manager is a magical elf who generates and remembers all your passwords so you only have to remember one—the password for the password manager/magical elf. The benefit of this from a security perspective is that password managers can create brand new, really long, completely random passwords for every login which make breaking into your accounts almost* impossible. And you don't have to ever remember them or even type them in. The magical elf copy and pastes the passwords into apps and websites for you._
 
 ## [Problem + Unteach]
 
-Scaring people into change doesn't work. Most people don't know basic information on how to secure themselves online (Olmstead & Smith, 2017a). This means scaring them into adopting more secure behaviors won't work. Let's take an example from health psychology. Many people assume that shocking smokers with horrible images of disease on cigarette packaging will motivate smokers to stop buy cigarettes. Yet scaring people into change *only* works in those rare situations where people feel like their behavior is under their control and that they have the skills needed to change (Kok, Peters, Kessels, ten Hoor, Ruiter, 2018). Experts seek negative feedback. The rest of us novices need meaningful positive feedback that supports our sense of competence for us to feel motivated to change (Finkelstein & Fishbach, 2011).
+The default way that most people use to persuade others into changing their behavior is usually appealing to fear. But scaring people into change doesn't work in most situations. Let's take an example from health psychology. Many people assume that shocking smokers with horrible images of disease on cigarette packaging will motivate smokers to stop buy cigarettes. Yet scaring people into change *only* works in those rare situations where people feel like their behavior is under their control and that they have the skills needed to change that behavior (Kok, Peters, Kessels, ten Hoor, Ruiter, 2018). The rest of us mortals need meaningful positive feedback that supports our sense of competence for us to feel motivated to change (Finkelstein & Fishbach, 2011).
 
-A technology-only solution also won't work. Given the immense scale of the problem, you might think it would be best to just sidestep the human problem with a technical fix. It's doubtful that we'll ever be able to secure ourselves by just relying on technology. When facing a complex problem, we tend to look for complex solutions. Yet in an uncertain world, that's a mistake. "Overly complicated systems difficult to understand, easy to exploit, and possible dangerous" (Gigerenzer, 2015).
-
-We need to stop scaring people into using risky and elaborate technical systems. What's needed is motivating people to use simple rules of thumb and behaviors that they can do easily and freely.
+Most people don't know basic information on how to secure themselves online, so this is not likely to work in the security domain either (Olmstead & Smith, 2017a). What's needed instead are products that educate and motivate people using simple rules of thumb and behaviors that they can choose to do easily and freely.
 
 ## Designing a Motivational Behavior Change Journey
 
-To design for behavior change, you have to:
+Designing for behavior change can be thought of as 3 steps:
 
 1. Identify target behaviors your people want to do.
 2. Identify barriers in the way of your people doing those behaviors.
@@ -36,11 +34,11 @@ To design for behavior change, you have to:
 
 As our friend [Dustin DiTommaso](https://twitter.com/DU5TB1N) likes to say, "there is almost never a situation when motivation is never a driver of behavior change". So let's talk about that.
 
-The first step toward toward motivating people toward is to stop thinking of motivation as something you "add" to people, like a software update. Instead, you have to think of yourself as [a great host](http://habitry.link/motivating-humans). People are willing to consider your recommendations after they feel they can trust you. You have to relate to their experience from the lens of their personal goals and values. To make data breaches personally relevant to them, you have to stop scaring and [start relating](http://habitry.link/community).
+Motivation is not something you can "add" to people, like a software update. Motivation is internal and comes out when we sense we are in the right conditions for it. So instead trying to "add" motivation, it's easier to think of yourself as [a great host](http://habitry.link/motivating-humans). People are willing to consider your recommendations after they feel they can trust you. You have to relate to their experience from the lens of their personal goals and values. And to make data breaches personally relevant to them, you have to stop scaring and [start relating](http://habitry.link/community).
 
-Relating well with people requires the satisfaction of three feelings (Deci & Ryan, 2014):
+Relating well with people requires the satisfaction of three Basic Psychological Needs (Deci & Ryan, 2014):
 
-**Competence**, the feeling the feeling you get after attaining a difficult goal. You feel effective; that you can do things well. The opposite of competence is feeling ineffective and impotent.
+**Competence**, the feeling you get after attaining a difficult goal. You feel effective; that you can do things well. The opposite of competence is feeling ineffective and impotent.
 
 **Autonomy**, the feeling you get when you act with a sense of choice, initiative, volition, and meaning. It’s the need to experience our actions as our own. The opposite of autonomy is feeling coerced and manipulated.
 
@@ -137,13 +135,13 @@ The first step to breaking a habit is to change your environment so that you don
 
 Most modern password managers do this wonderfully well by co-opting existing cues in service of new habits. For example, they'll ask you if you want to add a password to your vault after you enter it in the course of your regular web browsing. Next, they'll start suggesting the new habit: use the password manager to enter your password on this site from now on. Finally, they make it as easy as possible by offering one click logins to all online accounts.
 
-### Tactic: Encourage them to bring other people into your community
+### Tactic: Help them build their community
 
 By now you've built their trust, supported their onboarding, and helped them build new more secure habits. Your users are feeling successful, and some of them might want to spread the love. This could be as simple as showing them how they can help their friends and family live more secure lives, too. And it could be as involved as creating a [community of behavior change](http://habitry.link/community) with them.
 
 ## Conclusion
 
-The Internet is ubiquitous, it seems so are poor security practices. If we want to secure our future, it makes sense to design for motivation and behavior change. That doesn't mean scaring people into changing. Rather, it means relating to people so that they feel motivated to use simple rules of thumb consistently. Use our design tactics to make that happen. 
+The Internet is ubiquitous, it seems so are poor security practices. If we want to secure our future, it makes sense to design for motivation and behavior change. That doesn't mean scaring people into changing. Rather, it means relating to people so that they feel motivated to use simple rules of thumb consistently. Use our design tactics to make that happen.
 
 
 - Reminder of why the problem is important for the reader, with an example
