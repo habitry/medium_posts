@@ -20,11 +20,13 @@ _For the 88% of reading this who don't use one, a password manager is a magical 
 
 ## [Problem + Unteach]
 
-The default way that most people use to persuade others into changing their behavior is usually appealing to fear. But scaring people into change doesn't work in most situations. Let's take an example from health psychology. Many people assume that shocking smokers with horrible images of disease on cigarette packaging will motivate smokers to stop buy cigarettes. Yet scaring people into change *only* works in those rare situations where people feel like their behavior is under their control and that they have the skills needed to change that behavior (Kok, Peters, Kessels, ten Hoor, Ruiter, 2018). The rest of us mortals need meaningful positive feedback that supports our sense of competence for us to feel motivated to change (Finkelstein & Fishbach, 2011).
+The default way that most people use to persuade others into changing their behavior is usually appealing to fear. But scaring people into change doesn't work in most situations. Let's take an example from health psychology. Many people assume that shocking smokers with horrible images of disease on cigarette packaging will persuade smokers to stop buy cigarettes. Yet scaring people into change *only* works in those rare situations where people feel like their behavior is under their control and that they have the skills needed to change that behavior (Kok, Peters, Kessels, ten Hoor, Ruiter, 2018). For the rest of us mortals to feel motivated to change our behavior, we need meaningful positive feedback that supports our sense of competence (Finkelstein & Fishbach, 2011).
 
 Most people don't know basic information on how to secure themselves online, so this is not likely to work in the security domain either (Olmstead & Smith, 2017a). What's needed instead are products that educate and motivate people using simple rules of thumb and behaviors that they can choose to do easily and freely.
 
 ## Designing a Motivational Behavior Change Journey
+
+For this exercise, [Habitry](https://habitry.com) looked at the research on the adoption of password managers, interviewed people who had either recently decided to start using a password manager, or had heard of a password manager but had yet to get one.
 
 Designing for behavior change can be thought of as 3 steps:
 
@@ -62,15 +64,15 @@ Let's get into some tactics for how you can support autonomy, competence, and re
 
 What would get someone to start searching for a password manager? Given that only 12% of Americans use a password manager, you might think people *decide* to not use a password manager. But it's more accurate to say that for most people, the thought of downloading a password manager doesn't ever cross their mind. About 60% of our behavior is habitual; we have daily routines that we rarely stray from. And when we do decide to act, often it's based on a gut feeling that something is urgent to do, rather than a cost-benefit calculation.
 
-Imagine what kind of situation would motivate a person to start searching for a password manager. They probably find themselves in a situation where one of their online accounts was compromised, and the service sent them an email about it. That's what motivated to Omar to start his search. Or perhaps a person starts searching because their InfoSec expert friends told them to. That also motivated Omar.
+Imagine what kind of situation would motivate a person to start searching for a password manager. Most of our interviewees found themselves in a situation where one of their online accounts was compromised, and the service sent them an email about it. Others started searching because their InfoSec expert friends told them to.
 
-Now imagine they've landed on a website for one of the popular password managers. This is a critical point in their journey to find a solution. It's a moment tinged with anxiety - I need to fix my password problem. There are also traces of hope - I really hope this thing can fix my password problem. In the next few milliseconds, with little conscious reflection, they'll feel trust or the lack of it. A gut feeling based on some simple cues rather than a cost-benefit analysis. Your job is to facilitate their trust by displaying cues that communicate you understand their situation.
+Now imagine you've landed on a website for one of the popular password managers. This was a critical point in the journey of our interviewees to find a solution. It's a moment tinged with anxiety - "I need to fix my password problem." There are also traces of hope - "and I really hope this thing can fix my password problem." In the next few milliseconds, with little conscious reflection, they'll feel trust or the lack of it. A gut feeling based on some simple cues rather than a cost-benefit analysis. Your job is to facilitate their trust by displaying cues that communicate you understand their situation.
 
 ### Tactic: Communicate you like them.
 
-Build rapport by relating to their situation. We trust people that understand us. One way you can convey this is through images and text that show there are other people just like them using your solution. Convey you understand their experiences, problems, values, desires, geographic location, and interests. Really, communicating about any attribute they have will foster perceptions of connection and relatedness. You'll know you've been successful at building trust if your users can say, "They like me and like to help people just like me.
+Build rapport by relating to their situation. We trust people that understand us. One way you can convey this is through images and text that show there are other people just like them using your solution. Convey you understand their experiences, problems, values, desires, geographic location, and interests. Really, communicating about any attribute they have will foster perceptions of connection and relatedness. You'll know you've been successful at building trust if your users can say, "They like me and like to help people just like me."
 
-**Motivation & Behavior Change Techniques:** Take interest in the person, and provide credible sources and role models.
+**Motivation & Behavior Change Techniques:** Demonstrate interest in the person, and provide credible sources and role models.
 
 ### Tactic: Request with a meaningful rationale.
 
@@ -100,17 +102,17 @@ That is a competence satisfying statement because it tells the user they can suc
 
 **Your challenge:** Making their first steps as effortless as possible.
 
-Now you've gained their trust and they actually downloaded your app. Great! Now is the time to support their transition from outsiders to insiders in your [community](http://habitry.link/community). You want to help them feel like they can use your password manager successfully , that they're in the right place, and that they made the right choice.
+You've gained their trust and they actually downloaded your app. Great! Now is the time to support their transition from outsiders to insiders in your [community](http://habitry.link/community). You want to help them feel like they can use your password manager successfully, that they're in the right place, and that they've made the right choice.
 
 ### Tactic: Use scaffolding to foster competence.
 
-Onboarding is the point in time when people will have the highest motivation they'll ever have to learn anything. It's like New Years Day. Use it wisely. Still, even though they're motivation is high, their skills and knowledge are quite low. How would you design a journey if you thought of them as baby power users? If you demand too much of them, you can accidentally make them feel stupid. You need to support the hell out of their competence. Way more than you think they need. That's because you suffer from [The Curse of Knowledge](https://www.wikiwand.com/en/Curse_of_knowledge) and you've forgotten how hard it was for you to learn all this password management stuff the first time you came across it.
+Onboarding is the point when people will have the highest motivation they'll ever have to learn anything. It's like New Year's Day. Still, even though their motivation is high, their skills and knowledge are quite low. How would you design a journey if you thought of them as baby power users? If you demand too much of them, you can accidentally make them feel stupid. You need to support the hell out of their competence. Way more than you think they need. As experts in our products, we often suffer from [The Curse of Knowledge](https://www.wikiwand.com/en/Curse_of_knowledge) and forgot how hard it was for us to learn all this password management stuff the first time we came across it.
 
-You could start by showing them a brief video of someone like them using your app. Merely watching others perform can foster our perception of competence (Kardas & O'Brien, 2018). This is great because it's everyone is capable of watch a short video. It makes them feel like they are learning. And you've taken away any possibility of them making a mistake. Success!
+You could start by showing them a brief video of someone like them using your app. Merely watching others perform an action can foster our perception of competence (Kardas & O'Brien, 2018). This is great because it's everyone is capable of watch a short video. It makes them feel like they are learning. This can actually be more successful than guiding them with tool tips, because you've taken away any possibility of them making a mistake. Success!
 
-The next step up in the scaffold would be to provide a mock walkthrough with tool tips. Walk them through how to use the app on a made up account, so there's no way they can make a real mistake. You also want to start giving them precise hints on how to take specific actions in your app, along with meaningful positive feedback when they do take those actions.
+The next step up in the scaffold could be to provide a mock walkthrough with tool tips. Walk them through how to use the app on a made up account, so there's no way they can make a real mistake. You also want to start giving them precise hints on how to take specific actions in your app, along with meaningful positive feedback when they do take those actions.
 
-Finally, you can walk them through with their real accounts. For example, LastPass have a Security Challenge, where they audit a user's passwords and then provide simple suggestions on how a user can increase their "security score". Alternatively, you can
+Finally, you can walk them through with their real accounts. For example, LastPass have a Security Challenge, where they audit a user's passwords and then provide simple suggestions on how a user can increase their "security score". Alternatively, you can do what 1Password does and walk them through the installation of a browser extension. Then demonstrate how any time they log into a website, the extension will automatically add their login information to their account. This shows people the "path forward" in a way that is easier to understand and less overwhelming than, "OMG I HAVE TO LOAD ALL MY PASSWORDS AT ONCE"
 
 **Motivation & Behavior Change Techniques**: Provide optimal challenge, demonstration of the behavior, instruction on how to perform the behavior, goal-setting, and feedback on behavior.
 
@@ -133,11 +135,13 @@ Understanding what a password manager does requires a subtle shift on a person's
 
 The first step to breaking a habit is to change your environment so that you don't come across cues that trigger it. The second step is to do the new habit you want in the presence of that cue. The third step is to make the new habit as easy as possible.
 
-Most modern password managers do this wonderfully well by co-opting existing cues in service of new habits. For example, they'll ask you if you want to add a password to your vault after you enter it in the course of your regular web browsing. Next, they'll start suggesting the new habit: use the password manager to enter your password on this site from now on. Finally, they make it as easy as possible by offering one click logins to all online accounts.
+Most modern password managers do this well by co-opting existing cues in service of new habits. For example, they'll use a browser extension to ask you if you want to add a password to your vault after you enter it in the course of your regular web browsing. Next, they'll start suggesting the new habit: use the password manager to enter your password on this site from now on. Finally, they make it as easy as possible by offering one click logins to all online accounts.
 
 ### Tactic: Help them build their community
 
 By now you've built their trust, supported their onboarding, and helped them build new more secure habits. Your users are feeling successful, and some of them might want to spread the love. This could be as simple as showing them how they can help their friends and family live more secure lives, too. And it could be as involved as creating a [community of behavior change](http://habitry.link/community) with them.
+
+1Password does this by offering "Family", "Team", and "Business" offerings. Our interviewees who took advantage of these offerings did so specifically because 1Password had made them feel so smart, that they wanted to help their friends and family with their new knowledge of the tool.
 
 ## Conclusion
 
