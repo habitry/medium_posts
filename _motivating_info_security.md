@@ -66,13 +66,13 @@ Imagine what kind of situation would motivate a person to start searching for a 
 
 Now imagine you've landed on a website for one of the popular password managers. This was a critical point in the journey of our interviewees to find a solution. It's a moment tinged with anxiety - "I need to fix my password problem." There are also traces of hope - "and I really hope this thing can fix my password problem." In the next few milliseconds, with little conscious reflection, they'll feel trust or the lack of it. A gut feeling based on some simple cues rather than a cost-benefit analysis. Your job is to facilitate their trust by displaying cues that communicate you understand their situation.
 
-### Tactic 1: Communicate you like them.
+### Tactic: Communicate you like them.
 
 Build rapport by relating to their situation. We trust people that understand us. One way you can convey this is through images and text that show there are other people just like them using your solution. Convey you understand their experiences, problems, values, desires, geographic location, and interests. Really, communicating about any attribute they have will foster perceptions of connection and relatedness. You'll know you've been successful at building trust if your users can say, "They like me and like to help people just like me."
 
 **Motivation & Behavior Change Techniques:** Demonstrate interest in the person and provide credible role models.
 
-### Tactic 2: Provide a meaningful rationale.
+### Tactic: Provide a meaningful rationale.
 
 Now that you've built rapport, the next challenge is to make your request without accidentally making them feel stupid, manipulated, or misunderstood. How can you do that? Here's an example we stole directly from Menard, Bott, & Crossley (2017):
 
