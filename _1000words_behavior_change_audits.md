@@ -1,4 +1,4 @@
-# How to Use a Behavior Change Audit to Design for Motivation
+# How to Use a Motivation Audit to Design for Behavior Change
 
 # Opener
 
