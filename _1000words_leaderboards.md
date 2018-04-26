@@ -20,7 +20,6 @@ Fixing Leaderboards
 - People will game the system if you focus too much on point
 - The leaderboard is the DV and incidental... not the point of playing or the driver
 
-
 # Opener
 
 - Introduce a concept and relate it to the reader's experience
