@@ -3,7 +3,7 @@
 # Opener
 
 - Leaderboards are a common behavior change design pattern.  
-- Product designers imagine leaderboards will motivate because everyone wants to be a winner.
+- Product designers imagine leaderboards will motivate because everyone wants to be a winner. (Articulate their logic model)
 - But leaderboards are demotivating for everyone else.
 
 # A Motivation Problem
