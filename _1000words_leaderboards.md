@@ -40,32 +40,33 @@ Next, we breakdown leaderboards into their behavior change elements and share ta
 
 A behavior change technique is an "active ingredient that brings about behavior change" (Michie et al. 2013). Most leaderboards are typically system of four behavior change techniques:
 
-1. Goal-setting
-2. Feedback
-3. Social comparison
-4. Social reward
+![How Leaderboards Motivate or Demotivate](images/leaderboards/diagram2.png)
 
+In turn, each of these behavior change techniques can support or frustrate [Basic Psychological Needs](http://habitry.link/motivating-humans).
 
+![How Leaderboards Motivate or Demotivate](images/leaderboards/diagram3.png)
 
-### Goals and planning
+Let's walk through how you can design each behavior change technique to support needs.
+
+### 1. Goal-setting
 - individual vs group goal
 - extrinsic vs intrinsic goals
 - playing vs performing goals (make it about having fun learning vs winning)
 
-### Feedback & monitoring
+### 2. Feedback
 
 - Outcomes vs process vs self tracking;
 - feedback (give feedback to the losers; giving autonomy support reduces pain of losses)
 - how to limit ego-involvement; mastery goals protect against social comparison; winning by small amount was most enjoyable;)
 - self-monoitring meta-analysis
 
-### Social comparison
+### 3. Social Comparison
 
 - social norms (autonomous vs controlled motives for why we're behaving)
 - social comparisons are more potent when they are local, involve unknown dimensions, and manipulate the self; assimilation requires special priming
 - social comparison meta-analysis
 
-##### Rewards
+#### 4. Social Rewards
 
 - Make them surprising
 - Tie them to bigger picture life goals and aspirations
