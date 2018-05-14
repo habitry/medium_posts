@@ -93,27 +93,69 @@ Make competing more about playing with others rather than being top dog. For exa
 Feedback lets users know the progress they are making from Point A (where they are) to Point B (their goal). In general, the more often people check their progress, the more progress they make (Harkin et al. 2016). Whenever someone checks your leaderboard, they are receiving feedback.
 
 * Nike+ ranks people on fitness activity points. The feedback is a user's position on the board.
-* MyHeat, shows you areas of your home that are leaking heat and it gives you a Heat Loss Rating to tell you how great your home is at keeping heat inside.
+* MyHeat shows you areas of your home that are leaking heat and it gives you a Heat Loss Rating to tell you how great your home is at keeping heat inside.
 * Github shows you the number of contributions you've made to a project and how your rate of contributions is increase or decreasing over time.
 
-Not all goals are equal. Some goals support Basic Psychological Needs and some goals thwart them. Here are some suggestions to design goals that support them instead of thwarting them.
+ Here are some suggestions to design feedback that supports Basic Psychological Needs instead of frustrating them.
 
-- Outcomes vs process vs self tracking;
-- feedback (give feedback to the losers; giving autonomy support reduces pain of losses)
-- how to limit ego-involvement; mastery goals protect against social comparison; winning by small amount was most enjoyable;)
-- self-monoitring meta-analysis
+#### Provide informational and non-judgmental feedback (especially for losers)
+
+Competitions are fantastic sources of feedback. Winning, losing, ranking, it’s almost impossible not to form an opinion on “how am I doing” in an competitive environment. Winning obviously feels great, but losing, not so much. Here are some ways to take the edge off losing:
+
+- Providing positive feedback to losers for meeting a standard (Vansteenkiste & Deci, 2003).
+- Explain why they got the score they got, acknowledge that losing might suck, and give them a choice to continue playing or not (Chatzisarantis, Kee, Thaung, & Hagger, 2012).
+
+- Example in a leaderboard:
+
+#### Keep the focus on the process of "playing well" rather than on winning
+
+- Help losers focus on playing well rather than achieving victory (Standage, Dude, & Pensgaard 2005), so provide some suggestions on how they can improve.
+- Likewise, provide suggestions to winners on how they can keep improving, so they don't become obsessed with winning.
+- Losing with a teammate is less demotivating than losing alone  (Standage, Dude, & Pensgaard 2005), so emphasize connections and relationships.
+
+- Example in a leaderboard:
 
 ### 3. Social Comparison
 
-- social norms (autonomous vs controlled motives for why we're behaving)
-- social comparisons are more potent when they are local, involve unknown dimensions, and manipulate the self; assimilation requires special priming
-- social comparison meta-analysis
+Social comparison is used to get users to how other people are doing in relation to them. Whenever you display rankings to your users, you are employing social comparison.
 
-#### 4. Social Rewards
+* Nike+ ranks people on fitness activity points.
+* OPower explicitly tells people how energy they use in comparison with their neighbors.  
+* Github ranks contributors based on how many commits they make to each project.
+
+ By default, people choose to compare themselves to people who are better than them on some quality (Gerber, Wheeler, & Suls, 2018). We compare upwards even when we receive negative feedback. This is surprising because you could make the argument that after we receive negative feedback, we compare ourselves to someone worse than us to feel better about ourselves. This upward comparison effect is stronger when we compare ourselves on ability, or on a dimension we don't understand well. The big risk with a leaderboard is that people compare themselves to people above them, resulting in reduced competence and relatedness.
+
+ Here are some suggestions to design feedback that supports Basic Psychological Needs instead of frustrating them.
+
+#### Compare people on a metric they can improve and have improved
+
+For example, rank people on how often they choose to play or use your app, rather than on an outcome measure they have less control over (such as pounds of bodyweight lost). The idea is to satisfy their competence. A focus on learning and mastery limits any frustration of competence when you receive a negative social comparison (Chatzisarantis et al 2016; Kamarova et al 2017).
+
+- Example in a leaderboard:
+
+
+#### Make it harder to compare
+
+Social comparison is less potent people have to compare themselves to more than two options. Take all your instincts about usability and flip them on their head. For example, we know it's hard for people to hold more than seven pieces of information. So compare them to more than 7 people. Alternatively, maybe you can use unique metrics for each person, so that the leaderboard acts more like a place for you to see the personal progress everyone is making, rather than a place to compare yourself to others.
+
+- Example in a leaderboard:
+
+
+### 4. Social Rewards
+
+Social rewards are non-material/financial incentives given in response to a user putting in some effort. Perhaps the most successful social reward in history is the Facebook Like. Many products justify the use of leaderboards by claiming that winning will win you accolades from people you care about. Surprisingly, they just assume people will give kudos without being prompted.
+
+At this point it's well-known that rewards can undermine intrinsic motivation (Cerasoli, Nicklin, & Ford, 2014; Deci, Koestner, & Ryan, 1999), so we should use them carefully.  
+
+We can design rewards to limit the damage to Basic Psychological Needs.  
+
+#### If the behavior you want your users to do is repetitive and boring, linking rewards to effort is justified
+
+
+#### If the behavior you want your users to do requires creativity, make rewards surprising and intrinsic
 
 - Make them surprising
 - Tie them to bigger picture life goals and aspirations
-- Don't use tangible rewards
 - Use intrinsic/meaningful rewards that support competence
 
 ## Conclusion
@@ -136,15 +178,27 @@ Not all goals are equal. Some goals support Basic Psychological Needs and some g
 
 ## References
 
-Burnette, J. L., O'boyle, E. H., VanEpps, E. M., Pollack, J. M., & Finkel, E. J. (2013). Mind-sets matter: A meta-analytic review of implicit theories and self-regulation. *Psychological Bulletin, 139*, 655–701
+Burnette, J. L., O'boyle, E. H., VanEpps, E. M., Pollack, J. M., & Finkel, E. J. (2013). Mind-sets matter: A meta-analytic review of implicit theories and self-regulation. *Psychological Bulletin, 139*, 655–701.
+
+Cerasoli, C. P., Nicklin, J. M., & Ford, M. T. (2014). Intrinsic motivation and extrinsic incentives jointly predict performance: A 40-year meta-analysis. Psychological bulletin, 140, 980–1008.
+
+Chatzisarantis, N. L., Ada, E. N., Bing, Q., Papaioannou, A., Prpa, N., & Hagger, M. S. (2016). Clarifying the link between mastery goals and social comparisons in classroom settings. *Contemporary Educational Psychology, 46*, 61-72.
+
+Chatzisarantis, N. L., Kee, Y. H., Thaung, H. K., & Hagger, M. S. (2012). When small losses do not loom larger than small gains: Effects of contextual autonomy support and goal contents on behavioural responses to small losses and small gains. *British Journal of Social Psychology, 51*, 690-708.
+
+Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological bulletin, 125*, 627-668.
 
 Epton, T., Currie, S., & Armitage, C. J. (2017). Unique effects of setting goals on behavior change: Systematic review and meta-analysis. *Journal of Consulting and Clinical Psychology, 85*, 1182-1198.
+
+Gerber, J. P., Wheeler, L., & Suls, J. (2018). A social comparison theory meta-analysis 60+ years on. Psychological bulletin, 144, 177-197.
 
 Grant, A. M. (2012). Leading with meaning: Beneficiary contact, prosocial impact, and the performance effects of transformational leadership. *Academy of Management Journal, 55*, 458-476.
 
 Grouzet, F. M., Sheldon, K. M., Kasser, T., Ahuvia, A., Dols, J. M. F., Kim, Y., Lau, S., Ryan, R. M., Saunders, S., & Schmuck, P. (2005). The structure of goals across 15 cultures. *Journal of Personality and Social Psychology, 89*, 800-816.
 
 Harkin, B., Webb, T. L., Chang, B. P., Prestwich, A., Conner, M., Kellar, I., Benn, Y., & Sheeran, P. (2016). Does monitoring goal progress promote goal attainment? A meta-analysis of the experimental evidence. *Psychological Bulletin, 142*, 198-229.
+
+Kamarova, S., Chatzisarantis, N. L., Hagger, M. S., Lintunen, T., Hassandra, M., & Papaioannou, A. (2017). Effects of achievement goals on perceptions of competence in conditions of unfavourable social comparisons: The mastery goal advantage effect. *British Journal of Educational Psychology, 87*, 630-646.
 
 Locke, E. A., & Latham, G. P. (Eds.). (2013). New developments in goal setting and task performance. Routledge.
 
@@ -156,11 +210,15 @@ Peters, D., Calvo, R. A., & Ryan, R. M. (2018). Designing for Motivation, Engage
 
 Senko, C., & Dawson, B. (2017). Performance-approach goal effects depend on how they are defined: Meta-analytic evidence from multiple educational outcomes. *Journal of Educational Psychology, 109*, 574–600.
 
+Standage, M., Duda, J. L., & Pensgaard, A. M. (2005). The effect of competitive outcome and task-involving, ego-involving, and cooperative structures on the psychological well-being of individuals engaged in a co-ordination task: A self-determination approach. *Motivation and Emotion, 29*, 41-68.
+
 Steingut, R. R., Patall, E. A., & Trimble, S. S. (2017). The effect of rationale provision on motivation and performance outcomes: A meta-analysis. Motivation Science, 3, 19–50.
 
 Landry, A., Kindlein, J., Trépanier, S.-G., Forest, J., Zigarmi, D., Houson, D., & Brodbeck, F. C (2016). Why individuals want money matters: Using self-determination theory to explain the differential relations between motives for making money and employee psychological health. *Motivation and Emotion, 40*, 226-242
 
 Werner, K. M., Milyavskaya, M., Foxen-craft, E., & Koestner, R. (2016). Some goals just feel easier: Self-concordance leads to goal progress through subjective ease, not effort. *Personality and Individual Differences, 96*, 237-242.
+
+Vansteenkiste, M., & Deci, E. L. (2003). Competitively contingent rewards and intrinsic motivation: Can losers remain motivated?. *Motivation and Emotion, 27*, 273-299.
 
 Vansteenkiste, M., Matos, L., Lens, W., & Soenens, B. (2007). Understanding the impact of intrinsic versus extrinsic goal framing on exercise performance: The conflicting role of task and ego involvement. *Psychology of Sport and Exercise, 8*, 771-794.
 
