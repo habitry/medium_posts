@@ -1,5 +1,7 @@
 # How to Motivate With Leaderboards: Stop Making Losers
 
+- Add a one sentence pitch from Habitry.
+
 >Winning doesn't mean anything unless someone else loses — The Man in Black, Westworld
 
 Leaderboards have become a common behavior change design pattern. Originally included in video games, leaderboards have started to infiltrate "gamified" products such as...
@@ -163,6 +165,10 @@ We can design rewards to limit the damage to Basic Psychological Needs.
 - Reminder of why the problem is important for the reader, with an example
 - Reminder of their mistaken assumption
 - Reminder of a solution
+
+## Pitch
+
+- Add a pitch from Habitry.
 
 ## Links & Notes
 
