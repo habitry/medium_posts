@@ -1,4 +1,4 @@
-# References used in http://habitry.link/passwords
+# References used in http://habitry.link/community
 
 Alkaldi, N. and Renaud, K. (2016) Why Do People Adopt, or Reject, Smartphone Password Managers? In: EuroUSEC 2016: The 1st European Workshop on Usable Security, Darmstadt, Germany, 18 July 2016, ISBN 1891562452.
 
