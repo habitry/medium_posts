@@ -1,22 +1,18 @@
 # How to Motivate With Leaderboards: Stop Making Losers
 
-- Add a one sentence pitch from Habitry.
-
 >Winning doesn't mean anything unless someone else loses — The Man in Black, Westworld
 
 Leaderboards have become a common behavior change design pattern. Originally included in video games, leaderboards have started to infiltrate "gamified" products such as...
 
-* Nike+, a fitness tracker device, which motivates users to exercise more by competing against their friends for activity points.
-* Opower and MyHeat, energy track platforms, which motivate users to reduce their energy use by showing how much energy they use compared to their neighbors.
-* Github, a project management tool for programmers, which motivates users to contribute to projects more by publicly displaying the number of contributions to projects by made by individual community members.
+* Nike+, a fitness wearable device, which motivates users to exercise more by competing against their friends for activity points.
+* Opower, an energy tracking platform, which motivate users to reduce their energy use by showing how much energy they use compared to their neighbors.
+* Github, a project management platform for programmers, which motivates users to contribute to projects more by publicly displaying the number of contributions to projects by made by individual community members.
 
 Product managers and designers use leaderboards to motivate people to use their products more. The idea is that leaderboards are motivating because people like to win and winning is motivating because it gives us status in our [communities](http://habitry.link/community).
 
 ### Competition: A Problem of Competence
 
-But some people don't want to win. They want to avoid losing. This is a subtle yet crucial distinction. Murayama and Elliot's (2012) set of meta-analyses found the effects of competition depend on whether players desire to win or avoid losing. It depends on your goals. When you want to perform better than others, you tend to benefit from competition. But when you want to avoid performing worse than others, your performance tends to go down in competition. Similarly, Burnette et al's (2013) meta-analysis found that the desire to win is positively related to goal achievement, whereas the desire to avoid losing is negatively related to goal achievement (yay replication). Finally, Senko et al's (2017) meta-analysis found that the desire to win improves achievement only when it's accompanied by strategies that support feelings of mastery rather than helplessness.
-
-In fact, the fear of failure tends to make us want to avoid losing rather than aim to win, and also  (Michou & Vansteenkiste, 2015)
+But some people don't want to win. They want to avoid losing. This is a subtle yet crucial distinction. Murayama and Elliot's (2012) set of meta-analyses found the effects of competition depend on whether players desire to win or avoid losing. It depends on your goals. When someone wants to perform better than others, they tend to benefit from competition. But when they want to avoid performing worse than others, competing tends to reduce their performance. Similarly, Burnette et al's (2013) meta-analysis found that the desire to win is positively related to goal achievement, whereas the desire to avoid losing is negatively related to goal achievement (yay replication). Finally, Senko et al's (2017) meta-analysis found that the desire to win improves achievement only when it's accompanied by strategies that support feelings of mastery rather than helplessness.
 
 Design patterns that foster competition, (like leaderboards) don't improve motivation and performance for all users in all situations. Competition is good for motivation and achievement only when they it helps users feel competent. Leaderboards are a motivation problem, and you can design for that.
 
@@ -32,9 +28,9 @@ A great leaderboard supports **competence**, which is the satisfaction you get w
 
 A great leaderboard should support **relatedness**, the satisfaction you get when you feel understood and liked by people you care about. You feel closer to the people you're playing with. The opposite of relatedness is feeling rejected and disconnected.
 
-Finally, a great leaderboard should support **autonomy**, the satisfaction you get when you act with a sense of personal commitment and volition. The opposite of autonomy is feeling coerced and manipulated.
+Finally, a great leaderboard should support **autonomy**, the satisfaction you get when you act with a sense of personal commitment and choice. The opposite of autonomy is feeling coerced and manipulated.
 
-Well designed leaderboards promote the satisfaction of competence, relatedness, and autonomy for most users, most of the time, and they don't pit these needs against each other. For example, a risk with leaderboards is that they pit competence against relatedness. By trying to get us to win in a competition against people we play with, they can satisfy competence at the price of frustrating relatedness.
+Well designed leaderboards promote the satisfaction of competence, relatedness, and autonomy for most users, most of the time, and they don't pit these needs against each other. For example, a risk with leaderboards is that they pit competence against relatedness. By trying to get us to win in a competition against people we play with, they can satisfy competence for a few users at the price of frustrating relatedness for many.
 
 #### The Mantra: Competence and Connection over Competition
 
@@ -42,7 +38,7 @@ Let's breakdown leaderboards into their behavior change elements and show you ho
 
 ## Behavior Change Elements of a Leaderboard
 
-A behavior change technique is an "active ingredient that brings about behavior change" (Michie et al. 2013). Most leaderboards are usually a system of four behavior change techniques:
+A behavior change technique is an "active ingredient that brings about behavior change" (Michie et al. 2013). Most leaderboards are a system of four behavior change techniques:
 
 ![How Leaderboards Motivate or Demotivate](images/leaderboards/diagram2.png)
 
@@ -54,105 +50,157 @@ Let's walk through how you can design each behavior change technique to support 
 
 ### 1. Goal-setting
 
-A goal is the aim of an action (Locke & Latham, 2013). Goal-setting involves giving or guiding a user toward a goal and has become recommended as an effective building block for behavior change (Epton, Currie, Armitage, 2017)
+A goal is the aim of an action (Locke & Latham, 2013). Goal-setting involves giving or guiding a user toward a goal and has become recommended as an effective building block for behavior change (Epton, Currie, Armitage, 2017).
 
-. On a leaderboard, the metric you rank users on is the goal you want them to adopt.
+"Get the number 1 ranking" is the default goal that is communicated by most leaderboards.
 
-* Nike+ ranks people on fitness activity points. The goal is to maximize your activity points.
-* Opower, ranks people on kWh/day of energy use. The goal is to minimize energy use. MyHeat gives people a Heat Loss Rating. The goal is to reduce the score to save on your electricity bill.
+* Nike+ ranks people on fitness activity points. The goal is to get the most activity points.
+* Opower, ranks people on kWh/day of energy use. The goal is to minimize energy use.
 * Github ranks people on number of contributions to a project. The goal is to maximize your contributions.
 
-Not all goals are equal. Some goals support Basic Psychological Needs and some goals thwart them. Here are some suggestions to design goals that support them instead of thwarting them.
+All goals are not created equal. Some goals support Basic Psychological Needs and some goals thwart them. Here are some suggestions to design goals that support them instead of thwarting them, so that your users actually benefit from your product and don't quit.
 
 #### Provide a motivational "why"
 
-Tell your users why you're asking them to pursue a goal (Steingut, Patall, & Trimble, 2017). Give them a reason that would make sense to them, given their goals (this supports autonomy). Typically, many products ask users to compete without giving them a simple explanation of why competing would a top slot on a leaderboard should matter to them (this frustrates their autonomy). Your users should be able to answer "I'm playing on this leaderboard because **[some reason they find valuable]**".
+Give your users a motivational reason why putting in effort to compete on your leaderboard might be worth the effort  (Steingut, Patall, & Trimble, 2017). From a Self-Determination Theory perspective, many products damage long-term user engagement because they provide users with The Wrong Whys.
 
-- Example in a leaderboard:
+The Wrong Whys to give your users include:
+- Emphasizing meaningless incentives. Example: "You should play because you'll win all the points!"
+- Emphasizing boosting ego and pride. Example: "You should play to win because only the best and smartest people win!"
+- Emphasizing outcomes users don't control. Example: "You should play so you remain physically attractive to others."
+
+The Right Whys include:
+- Emphasizing fun, enjoyment, or interest. Example: "You should play because it's fun!"
+- Emphasizing alignment with user personal values or desired social identity. Example: "You should play because that's the kind of people we are in this community!"
+- Emphasizing autonomy. Example: "You may want to play this" instead of "You must play this".
 
 #### Nest extrinsic goals inside of intrinsic goals
 
-Intrinsic goals are about pursuing ends that are inherently valuable to us, such as having fun, achieving mastery, and close relationships. Extrinsic goals are about pursuing instrumental outcomes such as wealth, fame, and hotness. In general, intrinsic goals...
-  - Satisfy our Basic Psychological Needs better than extrinsic goals (Grouzet et al 2005).
-  - Get us to put in more effort than extrinsic goals (Vansteenkiste, Simons, Lens, Sheldon, & Deci, 2004; Vansteenkiste, Simons, Soenens, & Lens, 2004).
-  - Can feel easier to pursue than extrinsic goals (Werner, Milyavskaya, Foxen-craft, & Koestner, 2016).
-  - Promote deeper learning compared to extrinsic goals (Vansteenkiste, Simons, Lens, Soenens, & Matos, 2005; Vansteenkiste, Timmermans, Lens, Soenens, & Van den Broeck, 2008)
-  - Promote enhanced focus on the task at hand, compared to extrinsic goals (Vansteenkiste, Matos, Lens, & Soenens, 2007).
-  - Perhaps most interestingly, pursuing extrinsic goals for intrinsic reasons, like aiming to make money to support your family, is more supportive of the Basic Psychological Needs than pursuing an extrinsic goal for extrinsic reasons (Landry et al. 2016).
+We strongly recommend giving users intrinsic goals over extrinsic goals. Intrinsic goals are about pursuing ends that are inherently valuable to us, such as having fun, achieving mastery, and building close relationships. Extrinsic goals are about pursuing instrumental outcomes such as wealth, fame, and hotness. In general, intrinsic goals...
+1. Satisfy our Basic Psychological Needs better than extrinsic goals (Grouzet et al 2005).
+2. Get us to put in more effort than extrinsic goals (Vansteenkiste, Simons, Lens, Sheldon, & Deci, 2004; Vansteenkiste, Simons, Soenens, & Lens, 2004).
+3. Can feel easier to pursue than extrinsic goals (Werner, Milyavskaya, Foxen-craft, & Koestner, 2016).
+4. Promote deeper learning compared to extrinsic goals (Vansteenkiste, Simons, Lens, Soenens, & Matos, 2005; Vansteenkiste, Timmermans, Lens, Soenens, & Van den Broeck, 2008)
+5. Promote enhanced focus on the task at hand, compared to extrinsic goals (Vansteenkiste, Matos, Lens, & Soenens, 2007).
+6. Perhaps most interestingly, pursuing extrinsic goals for intrinsic reasons, like aiming to make money to support your family, is more supportive of the Basic Psychological Needs than pursuing an extrinsic goal for extrinsic reasons (Landry et al. 2016).
 
-On a leaderboard, make competing  about pursuing an intrinsic goal for intrinsic reasons, or at the very least, make competing an extrinsic goal done for intrinsic reasons.
+Give your users intrinsic goals rather than extrinsic goals.
 
-- Example in a leaderboard:
+- Example of an intrinsic goal: Aim to improve your skills.
+- Example of an extrinsic goal: Aim to become famous.
+
+If you must use an extrinsic goal, nest it inside an intrinsic one.
+
+- Example: Play to win points (an extrinsic goal because points are extrinsic to the activity), but most importantly, play to contribute to our project that is making the world a better place (intrinsic because most people would agree making the world a better place is inherently valuable).
+
+The most motivational goal would be an intrinsic goal done for intrinsic reasons.
+
+- Example: Play because it's fun and because it'll make the world a better place.
 
 #### Nest individual goals inside of team goals
 
-Make competing more about playing with others rather than being top dog. For example, you can show your users how pursuing their individual goals helps other people on their team (Grant, 2012). This supports relatedness because it encourages users to work with each other rather than against each other.
+Make competing more about playing with others rather than being top dog. For example, show your users how pursuing their individual goals helps other people on their team (Grant, 2012). This supports relatedness because it encourages users to work with each other rather than against each other.
 
-- Example in a leaderboard:
+Nike+ comes close to pulling this off when they say, "With group goals, you can get to green together." But then they pit competence against relatedness by saying, "Or compete individually for the top slot on the leaderboard." They could fix this by saying something like, "Or focus on improving your personal score."
+
+![Nike+ Leaderboard](https://prod-university-library.s3.amazonaws.com/uploads/example/image/10/Leaderboard_from_Nike_.png)
 
 ### 2. Feedback
 
-Feedback lets users know the progress they are making from Point A (where they are) to Point B (their goal). In general, the more often people check their progress, the more progress they make (Harkin et al. 2016). Whenever someone checks your leaderboard, they are receiving feedback.
+Feedback lets users know the progress they are making from Point A (where they are) to Point B (their goal). Whenever someone checks your leaderboard, they are receiving feedback.
 
-* Nike+ ranks people on fitness activity points. The feedback is a user's position on the board.
-* MyHeat shows you areas of your home that are leaking heat and it gives you a Heat Loss Rating to tell you how great your home is at keeping heat inside.
-* Github shows you the number of contributions you've made to a project and how your rate of contributions is increase or decreasing over time.
+* Nike+ tells people how many activity points they've earned.
+* Opower, tells people how much energy they are using.
+* Github tells people the number of commits they've made to a project.
 
- Here are some suggestions to design feedback that supports Basic Psychological Needs instead of frustrating them.
+Well designed feedback can promote feelings of competence and mastery. In general, the more often people check their progress, the more progress they make (Harkin et al. 2016), so it's a good idea to design feedback that people find useful and enjoyable. Here are some tactics for doing so.
 
-#### Provide informational and non-judgmental feedback (especially for losers)
+#### Provide feedback on meaningful standards
 
-Competitions are fantastic sources of feedback. Winning, losing, ranking, it’s almost impossible not to form an opinion on “how am I doing” in an competitive environment. Winning obviously feels great, but losing, not so much. Here are some ways to take the edge off losing:
+Provide users with feedback on standards that meaningful to them, given their goals. Below an example from Google's Grasshopper. Users are being given feedback during onboarding. Specifically, it's telling users how to make a choice (autonomy support) and letting them feel good about making the choice (competence support).
 
-- Providing positive feedback to losers for meeting a standard (Vansteenkiste & Deci, 2003).
-- Explain why they got the score they got, acknowledge that losing might suck, and give them a choice to continue playing or not (Chatzisarantis, Kee, Thaung, & Hagger, 2012).
+![How Leaderboards Motivate or Demotivate](images/leaderboards/grasshopper.jpg)
 
-- Example in a leaderboard:
+#### Provide multiple levels of feedback
 
-#### Keep the focus on the process of "playing well" rather than on winning
+Provide users with multiple ways to assess their progress. But focus mostly on process and performance feedback because those metrics are the most under user control, and therefore have the greatest potential to support user competence.
 
-- Help losers focus on playing well rather than achieving victory (Standage, Dude, & Pensgaard 2005), so provide some suggestions on how they can improve.
-- Likewise, provide suggestions to winners on how they can keep improving, so they don't become obsessed with winning.
-- Losing with a teammate is less demotivating than losing alone  (Standage, Dude, & Pensgaard 2005), so emphasize connections and relationships.
+| |Process|Performance|Outcome|
+| ---: | :---: |:---:| :---:|
+| **Directional** | "You exercised more this week!” | “Your blood pressure is lower.” | “You are moving closer to your goal weight.”
+| **Normative** | “Most people exercise 45min a week.” | “Most people can run a mile.” | “Most people lose 10lbs in this program.”
+| **Comparative** | “That’s more than 90% of the people in this program have walked!” | “That’s lower cholesterol than 90% of the people in this program.” | “You have a lower risk for heart disease than 90% of the people in this program!”
+| **Identity** | “All that extra walking has moved you into the _Hikers_ category!” | “Your blood pressure numbers put you in the ‘moderate risk’ category.” | “You are now a healthy person.”
 
-- Example in a leaderboard:
+### Provide juicy feedback
+
+HCI resercher and game designer Sebastian Deterding defines juicy feedback as:
+
+>Varied, unexpectedly excessive sensual positive feedback on small user actions and achievements can instill a sense of competence even without a big challenge to overcome. Its unexpected variety also stokes curiosity.
+
+Here's another example from Google's Grasshopper:
 
 ### 3. Social Comparison
 
-Social comparison is used to get users to how other people are doing in relation to them. Whenever you display rankings to your users, you are employing social comparison.
+Social comparison is used to show users how they are doing in relation to other people. Whenever you display rankings to your users, you are employing social comparison.
 
 * Nike+ ranks people on fitness activity points.
-* OPower explicitly tells people how energy they use in comparison with their neighbors.  
+* OPower ranks people on how much energy they use in comparison with their neighbors.  
 * Github ranks contributors based on how many commits they make to each project.
 
- By default, people choose to compare themselves to people who are better than them on some quality (Gerber, Wheeler, & Suls, 2018). We compare upwards even when we receive negative feedback. This is surprising because you could make the argument that after we receive negative feedback, we compare ourselves to someone worse than us to feel better about ourselves. This upward comparison effect is stronger when we compare ourselves on ability, or on a dimension we don't understand well. The big risk with a leaderboard is that people compare themselves to people above them, resulting in reduced competence and relatedness.
+Social comparison is a tricky behavior change technique. Done well, it can support competence and relatedness. Done poorly, it will make people feel ineffective and excluded. By default, people choose to compare themselves to people who are better than them on some quality (Gerber, Wheeler, & Suls, 2018). We compare upwards even when we receive negative feedback. This is surprising because you could make the argument that after we receive negative feedback, we compare ourselves to someone worse off than us to feel better about ourselves. But people compare upwards instead. And this upward comparison effect is stronger when we compare ourselves on ability, or on a dimension we don't understand well. The big risk with social comparison is that people compare themselves to people above them, resulting in reduced competence and relatedness.
 
- Here are some suggestions to design feedback that supports Basic Psychological Needs instead of frustrating them.
+Another risk with social comparison is that it "works" in the short term. Feelings of inferiority and exclusion can push people to do what you want them to do with your product. Yet, this might come at the price of their long-term engagement with your product. Eventually, people quit using things that make them feel chronically guilty and shameful.
+
+Here are some suggestions to design social comparison so that supports Basic Psychological Needs instead of frustrating them.
+
+#### Take the sting out of losing
+
+Winning, losing, ranking, it’s almost impossible not to form an opinion on “how am I doing in comparison with others” in an competitive environment. Winning obviously feels great, but losing, not so much. Here are some ways to take the edge off losing:
+
+Tell losers they met a competence-satisfying standard, even if they lost (Vansteenkiste & Deci, 2003).
+- Example:
+
+Tell losers why they got the score they got (so they can learn how to improve, which supports competence and so they know the game is fair, which supports relatedness).
+
+- Example:
+
+Acknowledge that losing might suck (this supports autonomy because you aren't making them feel bad about feeling bad).
+
+- Example:
+
+Give losers a choice to keep playing or not (this supports autonomy; Chatzisarantis, Kee, Thaung, & Hagger, 2012).
+
+- Example:
+
+#### Keep the focus on "playing and connecting" rather than on winning
+
+Keep winners and losers focused on playing well rather than achieving victory (Standage, Dude, & Pensgaard 2005) by providing some suggestions on how they can have more fun,  improve, or connect with other players.
+- Example:
+
+Losing with a teammate is less demotivating than losing alone  (Standage, Dude, & Pensgaard 2005), so emphasize connections and relationships.
+
+- Example:
 
 #### Compare people on a metric they can improve and have improved
 
-For example, rank people on how often they choose to play or use your app, rather than on an outcome measure they have less control over (such as pounds of bodyweight lost). The idea is to satisfy their competence. A focus on learning and mastery limits any frustration of competence when you receive a negative social comparison (Chatzisarantis et al 2016; Kamarova et al 2017).
+Rank people on how often they choose to play or use your app, rather than on an outcome measure they have less control over (such as pounds of bodyweight lost). The idea is to satisfy their competence. A focus on learning and mastery limits any frustration of competence when you receive a negative social comparison (Chatzisarantis et al 2016; Kamarova et al 2017).
 
-- Example in a leaderboard:
-
+- Example:
 
 #### Make it harder to compare
 
-Social comparison is less potent people have to compare themselves to more than two options. Take all your instincts about usability and flip them on their head. For example, we know it's hard for people to hold more than seven pieces of information. So compare them to more than 7 people. Alternatively, maybe you can use unique metrics for each person, so that the leaderboard acts more like a place for you to see the personal progress everyone is making, rather than a place to compare yourself to others.
-
-- Example in a leaderboard:
-
+The negative effects of social comparison are less potent when people have to compare themselves to more than two options (Gerber, Wheeler, & Suls, 2018). Take all your instincts about usability and flip them on their head. For example, we know it's hard for people to hold more than seven pieces of information. So compare them to more than 7 people. Alternatively, maybe you can use unique metrics for each person, so that the leaderboard acts more like a place for you to see the personal progress everyone is making, rather than a place to compare yourself to others.
 
 ### 4. Social Rewards
 
-Social rewards are non-material/financial incentives given in response to a user putting in some effort. Perhaps the most successful social reward in history is the Facebook Like. Many products justify the use of leaderboards by claiming that winning will win you accolades from people you care about. Surprisingly, they just assume people will give kudos without being prompted.
+Social rewards are non-material/financial incentives given in response to a user putting in some effort. Perhaps the most successful social reward in history is the Facebook Like. Many products justify the use of leaderboards by claiming that winning will win users accolades from people they care about, which will motivate them to keep using the product.
 
-At this point it's well-known that rewards can undermine intrinsic motivation (Cerasoli, Nicklin, & Ford, 2014; Deci, Koestner, & Ryan, 1999), so we should use them carefully.  
-
-We can design rewards to limit the damage to Basic Psychological Needs.  
+At this point it's well-known that rewards can undermine intrinsic motivation (Cerasoli, Nicklin, & Ford, 2014; Deci, Koestner, & Ryan, 1999), so we should use them carefully. But we can design rewards to limit the damage to Basic Psychological Needs.
 
 #### If the behavior you want your users to do is repetitive and boring, linking rewards to effort is justified
 
+- Example in a leaderboard:
 
 #### If the behavior you want your users to do requires creativity, make rewards surprising and intrinsic
 
@@ -160,15 +208,13 @@ We can design rewards to limit the damage to Basic Psychological Needs.
 - Tie them to bigger picture life goals and aspirations
 - Use intrinsic/meaningful rewards that support competence
 
+- Example in a leaderboard:
+
 ## Conclusion
 
 - Reminder of why the problem is important for the reader, with an example
 - Reminder of their mistaken assumption
 - Reminder of a solution
-
-## Pitch
-
-- Add a pitch from Habitry.
 
 ## Links & Notes
 
