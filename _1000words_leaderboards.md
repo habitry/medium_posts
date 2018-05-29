@@ -8,19 +8,19 @@ Leaderboards have become a common behavior change design pattern. Originally inc
 * Opower, an energy tracking platform, which motivate users to reduce their energy use by showing how much energy they use compared to their neighbors.
 * Github, a project management platform for programmers, which motivates users to contribute to projects more by publicly displaying the number of contributions to projects by made by individual community members.
 
-Product managers and designers use leaderboards to motivate people to use their products more. The idea is that leaderboards are motivating because people like to win and winning is motivating because it gives us status in our [communities](http://habitry.link/community).
+Product managers and designers use leaderboards to motivate people to use their products more. The commonly-held belief is that leaderboards are motivating because people like to win and winning is motivating because it gives us status in our [communities](http://habitry.link/community). But some people don't want to win; they want to avoid losing.
 
 ### Competition: A Problem of Competence
 
-But some people don't want to win. They want to avoid losing. This is a subtle yet crucial distinction. Murayama and Elliot's (2012) set of meta-analyses found the effects of competition depend on whether players desire to win or avoid losing. It depends on your goals. When someone wants to perform better than others, they tend to benefit from competition. But when they want to avoid performing worse than others, competing tends to reduce their performance. Similarly, Burnette et al's (2013) meta-analysis found that the desire to win is positively related to goal achievement, whereas the desire to avoid losing is negatively related to goal achievement (yay replication). Finally, Senko et al's (2017) meta-analysis found that the desire to win improves achievement only when it's accompanied by strategies that support feelings of mastery rather than helplessness.
+"Wanting to win" versus "wanting to avoid losing" is a subtle yet crucial distinction and Murayama and Elliot's (2012) set of meta-analyses found the effects of competition depend on this distinction in the minds of players. When someone wants to perform better than others, they tend to benefit from competition. But when they want to avoid performing worse than others, competing tends to _reduce_ their performance. Similarly, Burnette et al's (2013) meta-analysis found that the desire to win is positively related to goal achievement, whereas the desire to avoid losing is _negatively_ related to goal achievement (yay replication). Finally, Senko et al's (2017) meta-analysis found that the desire to win improves achievement only when it's accompanied by strategies that support feelings of mastery rather than helplessness. So even "wanting to win" is alone not enough to inoculate players from the downsides of competitive social environments.
 
-Design patterns that foster competition, (like leaderboards) don't improve motivation and performance for all users in all situations. Competition is good for motivation and achievement only when they it helps users feel competent. Leaderboards are a motivation problem, and you can design for that.
+Design patterns that foster competition—like leaderboards—don't improve motivation and performance for all users in all situations. Competition is good for motivation and achievement only when it helps users feel competent. Leaderboards are a motivation problem, and you can design for that.
 
 # Designing a Motivational Leaderboard
 
 >A finite game is played for the purpose of winning, an infinite game for the purpose of continuing the play — James P. Carse
 
-[Self-Determination Theory](http://habitry.link/motivating-humans) argues that human beings seek and engage with activities that promise and satisfy three fundamental intrinsic motivations that all human beings across all cultures require for optimal health, well-being, and performance. All user interactions with an interface can support or frustrate the satisfaction of these Basic Psychological Needs (Peters, Calvo, & Ryan, 2018). If you want to design a motivational leaderboard, you must design with these three needs in mind.
+[Self-Determination Theory](http://habitry.link/motivating-humans) posits that human beings seek and engage with activities that promise and satisfy three Basic Psychological Needs. All user interactions with an interface can support or frustrate the satisfaction of these Basic Psychological Needs (Peters, Calvo, & Ryan, 2018). So if you want to design a motivational leaderboard—and hopefully avoid accidentally demotiving a large sub-section of the people looking at it—you must design with these three needs in mind.
 
 ![How Leaderboards Motivate or Demotivate](images/leaderboards/diagram1.png)
 
@@ -30,15 +30,17 @@ A great leaderboard should support **relatedness**, the satisfaction you get whe
 
 Finally, a great leaderboard should support **autonomy**, the satisfaction you get when you act with a sense of personal commitment and choice. The opposite of autonomy is feeling coerced and manipulated.
 
-Well designed leaderboards promote the satisfaction of competence, relatedness, and autonomy for most users, most of the time, and they don't pit these needs against each other. For example, a risk with leaderboards is that they pit competence against relatedness. By trying to get us to win in a competition against people we play with, they can satisfy competence for a few users at the price of frustrating relatedness for many.
+Well designed leaderboards promote the satisfaction of competence, relatedness, and autonomy for most users, most of the time, and most importantly, they don't pit these needs against each other. For example, a risk with leaderboards is communicating to players that they must choose between competence or relatedness. A leaderboard can do this by communicating that we are in a zero-sum competition against the people we are playing with, therefore they can only satisfy competence for a few users at the price of frustrating relatedness for many.
+
+Think about it like a "game night" with some friends. For most people, the point of a game night is the excuse to hang out and be with each other (relatedness). Most board games are designed with low stakes (Monopoly money not being legal tender) and cooperative play (teams, couples, etc) in order prevent competition from pitting relatedness against competence. But if you pick a game that is designed differently, like Strip Poker or a full-on Fight Club, then you'll more than likely see more negative impacts on the motivation of your friends than positive ones. Some would no doubt leave rather than participate and potentially wreck their friendship and some who played would feel coerced into playing (both examples being the need for relatedness pitted against the need for autonomy). Even those who did play would likely start to feel different as clothes came off or noses bled.
+
+But we can break down leaderboards into their behavior change elements and examine the impact that each element has on Basic Psychological Needs. And in doing that, show you how you can design these elements so that they satisfy competence, relatedness, and autonomy without pitting them against each other.
 
 #### The Mantra: Competence and Connection over Competition
 
-Let's breakdown leaderboards into their behavior change elements and show you how you can design these elements so that they satisfy competence, relatedness, and autonomy.
-
 # Behavior Change Elements of a Leaderboard
 
-A behavior change technique is an "active ingredient that brings about behavior change" (Michie et al. 2013). Most leaderboards are a system of four behavior change techniques:
+A Behavior Change Technique is an "active ingredient that brings about behavior change" (Michie et al. 2013). The Human Behavior Change Project has identified 88 of these "BCTs" in research and most leaderboards are a system of four of these BCTs:
 
 ![How Leaderboards Motivate or Demotivate](images/leaderboards/diagram2.png)
 
@@ -52,27 +54,31 @@ Let's walk through how you can design each behavior change technique to support 
 
 A goal is the aim of an action (Locke & Latham, 2013). Goal-setting involves giving or guiding a user toward a goal and has become recommended as an effective building block for behavior change (Epton, Currie, Armitage, 2017).
 
-"Get the number 1 ranking" is the default goal that is communicated by most leaderboards.
+"Get the number 1 ranking" is the default goal that is communicated by most leaderboards. No one has to say it; the design itself tells players to make "be highest on the board" their goal.
 
 * Nike+ ranks people on fitness activity points. The goal is to get the most activity points.
 * Opower, ranks people on kWh/day of energy use. The goal is to minimize energy use.
 * Github ranks people on number of contributions to a project. The goal is to maximize your contributions.
 
-All goals are not created equal. Some goals support Basic Psychological Needs and some goals thwart them. Here are some suggestions to design goals that support them instead of thwarting them, so that your users actually benefit from your product and don't quit.
+All goals are not created equal, however, and all goals are context-dependent. Some goals support Basic Psychological Needs and some goals can thwart them depending on the person, the situation, and the social environment. "Run a marathon" can be a motivating goal to a middle-aged white person, whereas "run a marathon" can be a neutral goal to a Kenyan kid struggling in poverty. Like Dennis Kipruto Kimetto, the 34yo world-record holder in the marathon who didn't start running competitively until he was 27 because he didn't think running could feed his family.
+
+Here are some suggestions to for how to design goals that support the most needs of the most people instead of thwarting them, so that people will use your product long enough to actually benefit from it.
 
 ### Provide a motivational "why"
 
-Give your users a motivational reason why putting in effort to compete on your leaderboard might be worth the effort  (Steingut, Patall, & Trimble, 2017). From a Self-Determination Theory perspective, many products damage long-term user engagement because they provide users with The Wrong Whys.
+Give your users a reason why putting in effort to compete on your leaderboard might be worth the effort  that is meaningful _to them_ (Steingut, Patall, & Trimble, 2017). From a Self-Determination Theory perspective, many products damage long-term user engagement because they provide people with The Wrong Whys.
 
-The Wrong Whys to give your users include:
+The Wrong Whys include:
 - Emphasizing meaningless incentives. Example: "You should play because you'll win all the points!"
 - Emphasizing boosting ego and pride. Example: "You should play to win because only the best and smartest people win!"
-- Emphasizing outcomes users don't control. Example: "You should play so you remain physically attractive to others."
+- Emphasizing outcomes people don't control. Example: "You should play so you remain physically attractive to others."
+
+All of these "whys" accidentally communicate that participation in your product runs the risk of making them feel stupid, isolated, and manipulated.
 
 The Right Whys include:
-- Emphasizing fun, enjoyment, or interest. Example: "You should play because it's fun!"
-- Emphasizing alignment with user personal values or desired social identity. Example: "You should play because that's the kind of people we are in this community!"
-- Emphasizing autonomy. Example: "You may want to play this" instead of "You must play this".
+- Emphasizing fun, enjoyment, or interest. Example: "Play because it's fun and you'll learn interesting facts about yourself!"
+- Emphasizing alignment with user personal values or desired social identity. Example: "We play because we're a fun-loving community who help each other to become better people!"
+- Emphasizing autonomy. Example: "You may like playing this" instead of "You must play this".
 
 ### Nest extrinsic goals inside of intrinsic goals
 
@@ -123,7 +129,7 @@ Provide users with feedback on standards that meaningful to them, given their go
 
 ### Provide multiple levels of feedback
 
-Provide users with multiple ways to assess their progress. But focus mostly on process and performance feedback because those metrics are the most under user control, and therefore have the greatest potential to support user competence.
+Provide users with multiple ways to assess their progress, but in the beginning focus mostly on process and performance feedback because those metrics are the most under user control, and therefore have the greatest potential to support user competence.
 
 | |Process|Performance|Outcome|
 | ---: | :---: |:---:| :---:|
