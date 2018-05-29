@@ -4,15 +4,15 @@
 
 Leaderboards have become a common behavior change design pattern. Originally included in video games, leaderboards have started to infiltrate "gamified" products such as...
 
-* Nike+, a fitness wearable device, which motivates users to exercise more by competing against their friends for activity points.
-* Opower, an energy tracking platform, which motivate users to reduce their energy use by showing how much energy they use compared to their neighbors.
-* Github, a project management platform for programmers, which motivates users to contribute to projects more by publicly displaying the number of contributions to projects by made by individual community members.
+* Nike+, a fitness wearable device, which motivates users to exercise more, by competing against their friends for activity points.
+* Opower, an energy tracking platform, which motivate users to reduce their energy use, by showing how much energy they use compared to their neighbors.
+* Github, a project management platform for programmers, which motivates users to contribute to projects more, by publicly displaying the number of contributions to projects made by individual community members.
 
 Product managers and designers use leaderboards to motivate people to use their products more. The commonly-held belief is that leaderboards are motivating because people like to win and winning is motivating because it gives us status in our [communities](http://habitry.link/community). But some people don't want to win; they want to avoid losing.
 
 ### Competition: A Problem of Competence
 
-"Wanting to win" versus "wanting to avoid losing" is a subtle yet crucial distinction and Murayama and Elliot's (2012) set of meta-analyses found the effects of competition depend on this distinction in the minds of players. When someone wants to perform better than others, they tend to benefit from competition. But when they want to avoid performing worse than others, competing tends to _reduce_ their performance. Similarly, Burnette et al's (2013) meta-analysis found that the desire to win is positively related to goal achievement, whereas the desire to avoid losing is _negatively_ related to goal achievement (yay replication). Finally, Senko et al's (2017) meta-analysis found that the desire to win improves achievement only when it's accompanied by strategies that support feelings of mastery rather than helplessness. So even "wanting to win" is alone not enough to inoculate players from the downsides of competitive social environments.
+"Wanting to win" versus "wanting to avoid losing" is a subtle yet crucial distinction; Murayama and Elliot's (2012) set of meta-analyses found the effects of competition depend on this distinction in the minds of players. When someone wants to perform better than others, they tend to benefit from competition. But when they want to avoid performing worse than others, competing tends to _reduce_ their performance. Similarly, Burnette et al's (2013) meta-analysis found that the desire to win is positively related to goal achievement, whereas the desire to avoid losing is _negatively_ related to goal achievement (yay replication). Finally, Senko et al's (2017) meta-analysis found that the desire to win improves achievement only when it's accompanied by strategies that support feelings of mastery rather than helplessness. So even "wanting to win" is alone not enough to inoculate players from the downsides of competitive social environments.
 
 Design patterns that foster competition—like leaderboards—don't improve motivation and performance for all users in all situations. Competition is good for motivation and achievement only when it helps users feel competent. Leaderboards are a motivation problem, and you can design for that.
 
@@ -30,25 +30,25 @@ A great leaderboard should support **relatedness**, the satisfaction you get whe
 
 Finally, a great leaderboard should support **autonomy**, the satisfaction you get when you act with a sense of personal commitment and choice. The opposite of autonomy is feeling coerced and manipulated.
 
-Well designed leaderboards promote the satisfaction of competence, relatedness, and autonomy for most users, most of the time, and most importantly, they don't pit these needs against each other. For example, a risk with leaderboards is communicating to players that they must choose between competence or relatedness. A leaderboard can do this by communicating that we are in a zero-sum competition against the people we are playing with, therefore they can only satisfy competence for a few users at the price of frustrating relatedness for many.
+Well designed leaderboards promote the satisfaction of competence, relatedness, and autonomy for most users, most of the time. And most important, they don't pit these needs against each other. For example, a risk with leaderboards is implying to players that they have to choose between competence or relatedness. A leaderboard can do this by suggesting that we are in a zero-sum competition against the people we are playing with. When this happens leaderboards satisfy competence for a few users at the price of frustrating relatedness for many.
 
-Think about it like a "game night" with some friends. For most people, the point of a game night is the excuse to hang out and be with each other (relatedness). Most board games are designed with low stakes (Monopoly money not being legal tender) and cooperative play (teams, couples, etc) in order prevent competition from pitting relatedness against competence. But if you pick a game that is designed differently, like Strip Poker or a full-on Fight Club, then you'll more than likely see more negative impacts on the motivation of your friends than positive ones. Some would no doubt leave rather than participate and potentially wreck their friendship and some who played would feel coerced into playing (both examples being the need for relatedness pitted against the need for autonomy). Even those who did play would likely start to feel different as clothes came off or noses bled.
+Think about it like a "game night" with some friends. For most people, the point of a game night is the excuse to hang out and be with each other (relatedness). Most board games are designed with low stakes (Monopoly money not being legal tender) and cooperative play (teams, couples, etc). This is to prevent competition from pitting relatedness against competence. But if you pick a game that is designed differently, like Strip Poker or a full-on Fight Club, then you'll more than likely see more negative impacts on the motivation of your friends, than positive ones. Some players would no doubt leave rather than participate and potentially wreck their friendship, and some who played would feel coerced into playing (both examples being the need for relatedness pitted against the need for autonomy). Even those who did play would likely start to feel different as clothes came off or noses bled.
 
-But we can break down leaderboards into their behavior change elements and examine the impact that each element has on Basic Psychological Needs. And in doing that, show you how you can design these elements so that they satisfy competence, relatedness, and autonomy without pitting them against each other.
+But we can break down leaderboards into their behavior change elements and examine the impact that each element has on Basic Psychological Needs. And in doing that, show you how you can design these elements so that they satisfy competence, relatedness, and autonomy, without pitting them against each other.
 
 #### The Mantra: Competence and Connection over Competition
 
 # Behavior Change Elements of a Leaderboard
 
-A Behavior Change Technique is an "active ingredient that brings about behavior change" (Michie et al. 2013). The Human Behavior Change Project has identified 88 of these "BCTs" in research and most leaderboards are a system of four of these BCTs:
+A Behavior Change Technique is an "active ingredient that brings about behavior change" (Michie et al. 2013). The Human Behavior Change Project has identified 93 of these "BCTs" in research, and most leaderboards are a system of four:
 
 ![How Leaderboards Motivate or Demotivate](images/leaderboards/diagram2.png)
 
-In turn, each of these behavior change techniques can support or frustrate the three [Basic Psychological Needs](http://habitry.link/motivating-humans).
+In turn, each of these four behavior change techniques can support or frustrate the three [Basic Psychological Needs](http://habitry.link/motivating-humans).
 
 ![How Leaderboards Motivate or Demotivate](images/leaderboards/diagram3.png)
 
-Let's walk through how you can design each behavior change technique to support the Basic Psychological Needs rather than frustrate them.
+Let's walk through how you can design each behavior change technique to support the Basic Psychological Needs, rather than frustrate them.
 
 ## 1. Goal-setting
 
@@ -57,38 +57,40 @@ A goal is the aim of an action (Locke & Latham, 2013). Goal-setting involves giv
 "Get the number 1 ranking" is the default goal that is communicated by most leaderboards. No one has to say it; the design itself tells players to make "be highest on the board" their goal.
 
 * Nike+ ranks people on fitness activity points. The goal is to get the most activity points.
-* Opower, ranks people on kWh/day of energy use. The goal is to minimize energy use.
+* Opower ranks people on kWh/day of energy use. The goal is to use the least amount of energy.
 * Github ranks people on number of contributions to a project. The goal is to maximize your contributions.
 
-All goals are not created equal, however, and all goals are context-dependent. Some goals support Basic Psychological Needs and some goals can thwart them depending on the person, the situation, and the social environment. "Run a marathon" can be a motivating goal to a middle-aged white person, whereas "run a marathon" can be a neutral goal to a Kenyan kid struggling in poverty. Like Dennis Kipruto Kimetto, the 34yo world-record holder in the marathon who didn't start running competitively until he was 27 because he didn't think running could feed his family.
+All goals are not created equal. Some goals support Basic Psychological Needs and some goals can thwart them, depending on the person and social environment. "Run a marathon" can be a motivating goal to a middle-aged white person, whereas "run a marathon" can be a neutral goal to a Kenyan kid struggling in poverty. Like Dennis Kipruto Kimetto, the 34yo world-record holder in the marathon who didn't start running competitively until he was 27 because he didn't think running could feed his family.
 
-Here are some suggestions to for how to design goals that support the most needs of the most people instead of thwarting them, so that people will use your product long enough to actually benefit from it.
+Here are some suggestions for how to design goals that support the Basic Psychological Needs of the most people instead of thwarting them, so that people will use your product long enough to actually benefit from it.
 
 ### Provide a motivational "why"
 
-Give your users a reason why putting in effort to compete on your leaderboard might be worth the effort  that is meaningful _to them_ (Steingut, Patall, & Trimble, 2017). From a Self-Determination Theory perspective, many products damage long-term user engagement because they provide people with The Wrong Whys.
+Give your users a reason why putting in effort to compete on your leaderboard might be worth it, in a way that is meaningful _to them_ (Steingut, Patall, & Trimble, 2017). From a Self-Determination Theory perspective, many products damage long-term user engagement because they provide people with The Wrong Whys.
 
 The Wrong Whys include:
 - Emphasizing meaningless incentives. Example: "You should play because you'll win all the points!"
 - Emphasizing boosting ego and pride. Example: "You should play to win because only the best and smartest people win!"
 - Emphasizing outcomes people don't control. Example: "You should play so you remain physically attractive to others."
 
-All of these "whys" accidentally communicate that participation in your product runs the risk of making them feel stupid, isolated, and manipulated.
+All of these "whys" can accidentally runs the risk of making users feel stupid, isolated, and manipulated when they participate in your leaderboard.
 
 The Right Whys include:
 - Emphasizing fun, enjoyment, or interest. Example: "Play because it's fun and you'll learn interesting facts about yourself!"
-- Emphasizing alignment with user personal values or desired social identity. Example: "We play because we're a fun-loving community who help each other to become better people!"
+- Emphasizing congruence with user personal values or desired social identity. Example: "We play because we're a fun-loving community who help each other to become better people!"
 - Emphasizing autonomy. Example: "You may like playing this" instead of "You must play this".
+
+All of these "whys" are likely to satisfy competence, relatedness, and autonomy when users participate in your leaderboard.
 
 ### Nest extrinsic goals inside of intrinsic goals
 
 We strongly recommend giving users intrinsic goals over extrinsic goals. Intrinsic goals are about pursuing ends that are inherently valuable to us, such as having fun, achieving mastery, and building close relationships. Extrinsic goals are about pursuing instrumental outcomes such as wealth, fame, and hotness. In general, intrinsic goals...
-1. Satisfy our Basic Psychological Needs better than extrinsic goals (Grouzet et al 2005).
-2. Get us to put in more effort than extrinsic goals (Vansteenkiste, Simons, Lens, Sheldon, & Deci, 2004; Vansteenkiste, Simons, Soenens, & Lens, 2004).
-3. Can feel easier to pursue than extrinsic goals (Werner, Milyavskaya, Foxen-craft, & Koestner, 2016).
-4. Promote deeper learning compared to extrinsic goals (Vansteenkiste, Simons, Lens, Soenens, & Matos, 2005; Vansteenkiste, Timmermans, Lens, Soenens, & Van den Broeck, 2008)
-5. Promote enhanced focus on the task at hand, compared to extrinsic goals (Vansteenkiste, Matos, Lens, & Soenens, 2007).
-6. Perhaps most interestingly, pursuing extrinsic goals for intrinsic reasons, like aiming to make money to support your family, is more supportive of the Basic Psychological Needs than pursuing an extrinsic goal for extrinsic reasons (Landry et al. 2016).
+- Satisfy our Basic Psychological Needs better than extrinsic goals (Grouzet et al 2005).
+- Get us to put in more effort than extrinsic goals (Vansteenkiste, Simons, Lens, Sheldon, & Deci, 2004; Vansteenkiste, Simons, Soenens, & Lens, 2004).
+- Can feel easier to pursue than extrinsic goals (Werner, Milyavskaya, Foxen-craft, & Koestner, 2016).
+- Promote deeper learning compared to extrinsic goals (Vansteenkiste, Simons, Lens, Soenens, & Matos, 2005; Vansteenkiste, Timmermans, Lens, Soenens, & Van den Broeck, 2008)
+- Promote enhanced focus on the task at hand, compared to extrinsic goals (Vansteenkiste, Matos, Lens, & Soenens, 2007).
+- Perhaps most interestingly, pursuing extrinsic goals for intrinsic reasons, like aiming to make money to support your family, is more supportive of the Basic Psychological Needs than pursuing an extrinsic goal for extrinsic reasons, like aiming to make money for the sake of fame (Landry et al. 2016).
 
 Give your users intrinsic goals rather than extrinsic goals.
 
@@ -97,7 +99,7 @@ Give your users intrinsic goals rather than extrinsic goals.
 
 If you must use an extrinsic goal, nest it inside an intrinsic one.
 
-- Example: Play to win points (an extrinsic goal because points are extrinsic to the activity), but most importantly, play to contribute to our project that is making the world a better place (intrinsic because most people would agree making the world a better place is inherently valuable).
+- Example: Play to win points (an extrinsic goal because points are extrinsic to the activity), but more importantly, play to contribute to our project that is making the world a better place (an intrinsic goal because most people would agree making the world a better place is inherently valuable).
 
 The most motivational goal would be an intrinsic goal done for intrinsic reasons.
 
@@ -107,7 +109,7 @@ The most motivational goal would be an intrinsic goal done for intrinsic reasons
 
 Make competing more about playing with others rather than being top dog. For example, show your users how pursuing their individual goals helps other people on their team (Grant, 2012). This supports relatedness because it encourages users to work with each other rather than against each other.
 
-Nike+ comes close to pulling this off when they say, "With group goals, you can get to green together." But then they pit competence against relatedness by saying, "Or compete individually for the top slot on the leaderboard." They could fix this by saying something like, "Or focus on improving your personal score."
+Nike+ comes close to pulling this off when they say, "With group goals, you can get to green together." But then they pit competence against relatedness by saying, "Or compete individually for the top slot on the leaderboard." They could fix this by saying something like, "Or focus on improving your personal score", instead.
 
 ![Nike+ Leaderboard](https://prod-university-library.s3.amazonaws.com/uploads/example/image/10/Leaderboard_from_Nike_.png)
 
@@ -123,13 +125,13 @@ Well designed feedback can promote feelings of competence and mastery. In genera
 
 ### Provide feedback on meaningful standards
 
-Provide users with feedback on standards that meaningful to them, given their goals. Below an example from Google's Grasshopper. Users are being given feedback during onboarding. Specifically, it's telling users how to make a choice (autonomy support) and letting them feel good about making the choice (competence support). It also lets users know they are in the "right place", which also supports competence.
+Provide users with feedback on standards that meaningful to them, given their goals. Below is an example from Google's Grasshopper. Users are being given feedback during onboarding. Specifically, it's telling users how to make a choice (autonomy support) and letting them feel good about making the choice (competence support). It also helps users feel they are in the "right place", which supports competence.
 
 ![Grasshopper onboarding feedback](images/leaderboards/grasshopper.jpg)
 
 ### Provide multiple levels of feedback
 
-Provide users with multiple ways to assess their progress, but in the beginning focus mostly on process and performance feedback because those metrics are the most under user control, and therefore have the greatest potential to support user competence.
+Provide users with multiple ways to assess their progress. However, focus mostly on process and performance feedback because such metrics are the most under user control, and therefore have the greatest potential to support user competence.
 
 | |Process|Performance|Outcome|
 | ---: | :---: |:---:| :---:|
@@ -140,7 +142,7 @@ Provide users with multiple ways to assess their progress, but in the beginning 
 
 ### Provide juicy feedback
 
-Juicy feedback is varied, unexpectedly excessive sensual positive feedback on small user actions and achievements can instill a sense of competence even without a big challenge to overcome (Deterding, 2015). Here's another example from Google's Grasshopper:
+Juicy feedback is varied, unexpectedly excessive sensual positive feedback on small user actions and achievements (Deterding, 2015). Juicy feedback can instill a sense of competence even without a big challenge to overcome. Here's another example from Google's Grasshopper:
 
 ![Grasshopper juicy feedback](images/leaderboards/juicyfeedback.gif)
 
@@ -148,11 +150,11 @@ Juicy feedback is varied, unexpectedly excessive sensual positive feedback on sm
 
 Social comparison is used to show users how they are doing in relation to other people. Whenever you display rankings to your users, you are employing social comparison.
 
-* Nike+ ranks people on fitness activity points.
-* OPower ranks people on how much energy they use in comparison with their neighbors.  
-* Github ranks contributors based on how many commits they make to each project.
+* Nike+ ranks people on fitness activity points, in comparison to their friends.
+* OPower ranks people on how much energy they use, in comparison with their neighbors.  
+* Github ranks contributors based on how many commits they make to each project, in comparison with other project community members.
 
-Social comparison is a tricky behavior change technique. Done well, it can support competence and relatedness. Done poorly, it will make people feel ineffective and excluded. By default, people choose to compare themselves to people who are better than them on some quality (Gerber, Wheeler, & Suls, 2018). We compare upwards even when we receive negative feedback. This is surprising because you could make the argument that after we receive negative feedback, we compare ourselves to someone worse off than us to feel better about ourselves. But people compare upwards instead. And this upward comparison effect is stronger when we compare ourselves on ability, or on a dimension we don't understand well. The big risk with social comparison is that people compare themselves to people above them, resulting in reduced competence and relatedness.
+Social comparison is a tricky behavior change technique to get right. Done well, it can support competence and relatedness. Done poorly, it will make people feel ineffective and excluded. By default, people choose to compare themselves to people who are better than them on some quality (Gerber, Wheeler, & Suls, 2018). We compare upwards even when we receive negative feedback. This is surprising because you could make the argument that after we receive negative feedback, we would be more likely to compare ourselves to someone worse off than us to feel better about ourselves. But people compare upwards instead. And this upward comparison effect is stronger when we compare ourselves on ability, or on a dimension we don't understand well. The big risk with social comparison is that people will compare themselves to people above them, resulting in reduced competence and relatedness.
 
 Another risk with social comparison is that it "works" in the short term. Feelings of inferiority and exclusion can push people to do what you want them to do with your product. Yet, this might come at the price of their long-term engagement with your product. Eventually, people quit using things that make them feel chronically guilty and shameful.
 
